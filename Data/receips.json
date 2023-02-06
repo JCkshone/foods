@@ -1,765 +1,764 @@
 [
     {
-        "name": "Receta de polenta argentina",
-        "img": "https://unareceta.com/wp-content/uploads/2017/06/receta-de-polenta-argentina.jpg",
-        "description": "Aunque la polenta es un plato que tiene su origen en Italia, cada día cuenta con más popularidad en diversos países. La polenta argentina por ejemplo es una buena muestra de ello, ya que como ves, en este país tienen su propia manera de preparar este plato, ¡y está realmente exquisito! ¿Quieres saber cómo se hace la típica polenta de Argentina? Entonces no te pierdas la receta que te presentamos a continuación en Unareceta.com, ¡te va a encantar!",
-        "cuisine": "Argentina",        
-        "location": {
-                "lat": 0.0,
-                "long": 0.0
-            },
-        "ingredients": [
-            {
-                "title": "Para hacer la masa:",
-                "items": [
-                    "200 gr. de harina de maíz",
-                    "400 ml. de leche",
-                    "3 huevos",
-                    "3 cucharadas de margarina",
-                    "2 cucharadas de azúcar",
-                    "½ cucharada de sal"
-                ]
-            },
-            {
-                "title": "Para hacer el guiso:",
-                "items": [
-                    "2 chuletas de Sajonia",
-                    "½ kg. de carne picada",
-                    "1 cebolla",
-                    "2 tomates",
-                    "5 dientes de ajo",
-                    "½ pimiento rojo",
-                    "½ puerro",
-                    "100 ml. de aceite de oliva",
-                    "½ cucharada de mostaza",
-                    "½ cucharada de azúcar"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "Para preparar la masa, todo lo que tienes que hacer es echar los ingredientes de la mezcla, es decir, la harina de maíz, la leche, la mantequilla, la sal, el azúcar y los huevos en el vaso de la batidora y mezclarlo todo. "
-            },
-            {
-                "step": "",
-                "description": "Una vez que tengas lista la masa, resérvala mientras haces el guiso. Para ello, lava y pela los tomates, el pimiento, el puerro y la cebolla y ponlo en la licuadora. Tritúralo todo muy bien y pon a precalentar el horno a 200ºC."
-            },
-            {
-                "step": "",
-                "description": "Añade ahora a la licuadora la sal y la mostaza y vierte el aceite de oliva en una olla. Ponlo a calentar y, cuando haya adquirido la temperatura adecuada, fríe las chuletas de Sajonia y córtalas en cuadrados muy pequeñitos. Dale un par de vueltas y añade también el contenido de la licuadora. "
-            },
-            {
-                "step": "",
-                "description": "Prepara una fuente apta para horno con un poco de mantequilla y harina y echa la mitad del contenido de la batidora, una capa del guiso y la otra del contenido de la batidora. Si quieres, también puedes utilizar la mezcla para la base y el guiso para la superficie. "
-            },
-            {
-                "step": "",
-                "description": "Cubre el molde con papel de aluminio y ponlo en el horno.  Deja que se haga unos 35 o 40 minutos. Y, pasado este tiempo, ya puedes apagar el horno, apartar y servir tu exquisita polenta argentina. ¡Esperamos que te haya gustado esta receta! ¡Muy buen provecho!"
-            }
-        ]
-    },
-    {
-        "name": "Receta de calzone de jamón y queso",
-        "img": "https://unareceta.com/wp-content/uploads/2019/01/receta-calzone-jamon-queso-640x427.jpg",
-        "description": "¿Sabías que el calzone es oriundo de una región italiana llamada Nápoles? Esta recreación de la pizza tradicional es muy popular no sólo en Italia, sino en países como Argentina o Estados Unidos. Se puede rellenar con muchísimos ingredientes. ¡Así se hace un calzone de jamón y queso!",
-        "cuisine": "Argentina",     
-        "location": {
-            "lat": 0.0,
-            "long": 0.0
-        },
-        "ingredients": [
-            {
-                "title": "Para la masa:",
-                "items": [
-                    "3 tazas de harina ",
-                    "3/4 taza de agua caliente",
-                    "12 gr. de levadura instantánea",
-                    "1 cucharada de aceite de oliva",
-                    "1 cucharadita de sal"
-                ]
-            },
-            {
-                "title": "Para el relleno:",
-                "items": [
-                    "200 gr. de jamón cocido",
-                    "200 gr. de queso mozzarella",
-                    "1 taza de salsa de tomate",
-                    "4 hojas de albahaca fresca",
-                    "2 cucharadas de aceite de oliva",
-                    "Orégano",
-                    "Pimienta negra",
-                    "Sal"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "Como la masa debe reposarse antes, vas a comenzar por ella y lo primero es tamizarla con un colador. Disuelve la levadura en el agua caliente, luego añade la sal, vierte sobre la harina y comienza a amasar."
-            },
-            {
-                "step": "",
-                "description": "Añade el aceite y sigue mezclando hasta que la masa se despegue con facilidad de tus dedos, esté sin grumos y uniforme. Luego tápala y déjala en reposo hasta que doble su tamaño."
-            },
-            {
-                "step": "",
-                "description": "Una vez que la masa esté lista, enciende el horno y precaliéntalo a 180°C. Luego, espolvorea la mesa con harina y extiende la masa con un rodillo como si fueras a hacer una pizza. Reserva."
-            },
-            {
-                "step": "",
-                "description": "A continuación, trocea tanto el jamón como el queso y pica también las hojas de albahaca en pedacitos después de lavarlas."
-            },
-            {
-                "step": "",
-                "description": "Extiende la salsa por tu masa, procura no llegar hasta las bordes para que no se bote cuando la cierres y coloca encima el jamón troceado pero sólo en una mitad. Cubre con el queso, espolvorea con orégano y  la albahaca."
-            },
-            {
-                "step": "",
-                "description": "Humedece los bordes de tu calzone con un poco de agua y ciérralo como si de una empanada se tratara. Para sellarlo, presiona con los dedos."
-            },
-            {
-                "step": "",
-                "description": "Engrasa una bandeja de hornear con un chorrito de aceite, coloca encima tu calzone, realiza varios cortes pequeños para que salga el vapor durante la cocción y cocina durante 35 minutos."
-            },
-            {
-                "step": "",
-                "description": "Una vez que tu calzone de jamón y queso esté dorado, sácalo del horno y ¡a disfrutarlo!"
-            }
-        ]
-    },
-    {
-        "name": "Receta de polenta con salsa de pollo",
-        "img": "https://unareceta.com/wp-content/uploads/2017/06/receta-de-polenta-con-salsa-de-pollo.jpg",
-        "cuisine": "Argentina",     
-        "location": {
-            "lat": 0.0,
-            "long": 0.0
-        },
-        "description": "La polenta admite gran cantidad de variantes pero hoy queremos presentarte una forma de hacer este plato de origen italiano especialmente sabrosa, la polenta con salsa de pollo. Merece la pena ponerse con esta receta porque su sabor es un auténtico placer. Además, si sigues los pasos que te explicamos a continuación en Unareceta.com no te costará nada. ¿Quieres comprobarlo?",
-        "ingredients": [
-            {
-                "title": "Para la polenta",
-                "items": [
-                    "200 gr. de harina de maíz",
-                    "400 ml. de leche",
-                    "3 huevos",
-                    "3 cucharadas de margarina",
-                    "2 cucharadas de azúcar",
-                    "½ cucharada de sal"
-                ]
-            },
-            {
-                "title": "Para la salsa:",
-                "items": [
-                    "500 gr. de muslos de pollo",
-                    "300 gr. de salchichas",
-                    "1 cebolla",
-                    "2 zanahorias",
-                    "1 lata de tomate",
-                    "1 copa de vino blanco",
-                    "50 gr. de hongos secos",
-                    "100 ml. de caldo de pollo",
-                    "1 rama de romero",
-                    "1 rama de perejil fresco",
-                    "1 hoja de laurel",
-                    "Orégano",
-                    "Tomillo",
-                    "Aceite de oliva",
-                    "Pimienta negra molida",
-                    "Sal"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "Pon a calentar bastante aceite de oliva en una cazuela de barro y, mientras se calienta, quítale la piel a los muslitos de pollo."
-            },
-            {
-                "step": "",
-                "description": "Una vez que esté bien caliente el aceite, añade el pollo a la cazuela y sofríelo por todas partes hasta que esté bien doradito. Con unos diez minutos a fuego medio será suficiente. "
-            },
-            {
-                "step": "",
-                "description": "A continuación corta las salchichas y añádelas a la cazuela para que se hagan junto con los muslos de pollo. Baja el fuego para evitar que se quemen. "
-            },
-            {
-                "step": "",
-                "description": "Pela ahora la cebolla, pártela en cuatro partes y échala también en la cazuela. Haz lo mismo con las zanahorias. "
-            },
-            {
-                "step": "",
-                "description": "En cuanto las verduras se hayan pochadoun poquito, vierte el vino blanco por encima y sube el fuego al máximo durante cinco minutos para que se evapore el alcohol. "
-            },
-            {
-                "step": "",
-                "description": "Remoja los hongos en agua caliente y córtalos en láminas. Echalos en la cazuela con el resto de ingredientes y pon también la salsa de tomate junto con una mitad del caldo de pollo. Reserva la otra mitad. "
-            },
-            {
-                "step": "",
-                "description": "Echa ahora todas las especias en la cazuela y pon también un poco de sal."
-            },
-            {
-                "step": "",
-                "description": "Deja que se vaya haciendo todo a fuego lento hasta que la carne esté hecha y la salsa haya reducido bastante. Esto tardará unos quince minutos. A medida que lo vaya requiriendo, añade caldo para que no se quede muy seco el contenido de la cazuela."
-            },
-            {
-                "step": "",
-                "description": "Haz ahora la polenta. Para ello, todo lo que tienes que hacer es echar los ingredientes de la mezcla, es decir, la harina de maíz, la leche, la mantequilla, la sal, el azúcar y los huevos en el vaso de la batidora y mezclarlo todo. "
-            },
-            {
-                "step": "",
-                "description": "Si la salsa ya está lista, es hora de servir tu plato. Para ello, pon un poco de polenta y vierte por encima la salsa de pollo. ¡Esperamos que te guste! ¡Muy buen provecho!"
-            }
-        ]
-    },
-    {
-        "name": "Receta de turrón de avena",
-        "img": "https://unareceta.com/wp-content/uploads/2016/11/turron-de-avena-640x427.jpg",
-        "cuisine": "Argentina",     
-        "location": {
-            "lat": 0.0,
-            "long": 0.0
-        },
-        "description": "¿Quieres aprender a preparar un delicioso turrón de avena? Este dulce es muy típico en Argentina y también se conoce como turrón de Quaker debido a una famosa marca de avena (avena Quaker).",
-        "ingredients": [
-            {
-                "title": "",
-                "items": [
-                    "1 paquete de galletas tostadas cuadradas",
-                    "150 gr. de avena en copos",
-                    "200 gr. de mantequilla",
-                    "250 gr. de avena",
-                    "100 gr. de chocolate para repostería (en barra)",
-                    "200 gr. de azúcar",
-                    "3 cucharadas de dulce de leche",
-                    "1 vaso de leche"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "En un cazo derrite la mantequilla a fuego lento y añade después la leche y el chocolate. Sin dejar de remover, deja que se vaya derritiendo también el chocolate."
-            },
-            {
-                "step": "",
-                "description": "Después, añade los copos de avena, la leche, el azúcar y las tres cucharadas de dulce de leche. Sin dejar de remover, mantenlo a fuego lento durante 5 minutos. Retíralo y reserva la mezcla."
-            },
-            {
-                "step": "",
-                "description": "En un molde coloca una capa de galletas y sobre ésta una capa de la mezcla y así sucesivamente hasta completarlo. La última capa siempre será la de la mezcla."
-            },
-            {
-                "step": "",
-                "description": "Pon el turrón de avena en el nevera como mínimo una hora. Después sácalo y decóralo como más te guste. Una sugerencia es que lo cortes en porciones individuales como te mostramos en la imagen."
-            }
-        ]
-    },
-    {
-    "name": "Receta de arroz con pollo colombiano",
-    "img": "https://unareceta.com/wp-content/uploads/2015/06/arroz-con-pollo-colombiano.jpg",
-    "cuisine": "Colombiana",
-    "location": {
-        "lat": 0.0,
-        "long": 0.0
-    },
-    "description": "El arroz atollado es uno de los platos más populares de la cocina colombiana pero no es la única manera de cocinar este cereal y en Unareceta.com te vamos a enseñar otra opción igual de rica, el arroz con pollo colombiano. En cuanto lo pruebes, ¡verás lo bueno que está!",
-    "ingredients": [
+      "name": "Receta de polenta argentina",
+      "img": "https://unareceta.com/wp-content/uploads/2017/06/receta-de-polenta-argentina.jpg",
+      "description": "Aunque la polenta es un plato que tiene su origen en Italia, cada día cuenta con más popularidad en diversos países. La polenta argentina por ejemplo es una buena muestra de ello, ya que como ves, en este país tienen su propia manera de preparar este plato, ¡y está realmente exquisito! ¿Quieres saber cómo se hace la típica polenta de Argentina? Entonces no te pierdas la receta que te presentamos a continuación en Unareceta.com, ¡te va a encantar!",
+      "cuisine": "Argentina",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "ingredients": [
         {
-            "title": "",
-            "items": [
-                "300 gr. de pechuga de pollo",
-                "500 gr. de arroz",
-                "250 gr. de guisantes",
-                "1 cebolla",
-                "200 gr. de zanahoria",
-                "2 dientes de ajo",
-                "Salsa de tomate",
-                "Pimentón dulce",
-                "Sal",
-                "Cilantro picado",
-                "Aceite de oliva",
-                "Agua"
-            ]
+          "title": "Para hacer la masa:",
+          "items": [
+            "200 gr. de harina de maíz",
+            "400 ml. de leche",
+            "3 huevos",
+            "3 cucharadas de margarina",
+            "2 cucharadas de azúcar",
+            "½ cucharada de sal"
+          ]
+        },
+        {
+          "title": "Para hacer el guiso:",
+          "items": [
+            "2 chuletas de Sajonia",
+            "½ kg. de carne picada",
+            "1 cebolla",
+            "2 tomates",
+            "5 dientes de ajo",
+            "½ pimiento rojo",
+            "½ puerro",
+            "100 ml. de aceite de oliva",
+            "½ cucharada de mostaza",
+            "½ cucharada de azúcar"
+          ]
         }
-    ],
-    "steps": [
+      ],
+      "steps": [
         {
-            "step": "",
-            "description": "Lava bien el pollo y quítale la grasa que pudiese contener. Después, córtalo a tacos y reserva. "
+          "step": "",
+          "description": "Para preparar la masa, todo lo que tienes que hacer es echar los ingredientes de la mezcla, es decir, la harina de maíz, la leche, la mantequilla, la sal, el azúcar y los huevos en el vaso de la batidora y mezclarlo todo. "
         },
         {
-            "step": "",
-            "description": "Pela y pica la cebolla y los dientes de ajo y, en cuanto los tengas listos, ponlos en una olla con un poco de aceite. "
+          "step": "",
+          "description": "Una vez que tengas lista la masa, resérvala mientras haces el guiso. Para ello, lava y pela los tomates, el pimiento, el puerro y la cebolla y ponlo en la licuadora. Tritúralo todo muy bien y pon a precalentar el horno a 200ºC."
         },
         {
-            "step": "",
-            "description": "Cuando ambos ingredientes estén bien dorados, lo cual solo les llevará cinco minutos, agrega los trozos de pollo para que se hagan bien. Añade también el cilantro picado y deja que se haga todo junto durante diez minutos. "
+          "step": "",
+          "description": "Añade ahora a la licuadora la sal y la mostaza y vierte el aceite de oliva en una olla. Ponlo a calentar y, cuando haya adquirido la temperatura adecuada, fríe las chuletas de Sajonia y córtalas en cuadrados muy pequeñitos. Dale un par de vueltas y añade también el contenido de la licuadora. "
         },
         {
-            "step": "",
-            "description": "Agrega la salsa de tomate y un poco de pimentón dulce y sal y remueve bien. Tapa para que el pollo quede bien integrado en la mezcla y espera cinco minutos. Después apaga el fuego. "
+          "step": "",
+          "description": "Prepara una fuente apta para horno con un poco de mantequilla y harina y echa la mitad del contenido de la batidora, una capa del guiso y la otra del contenido de la batidora. Si quieres, también puedes utilizar la mezcla para la base y el guiso para la superficie. "
         },
         {
-            "step": "",
-            "description": "Pon en otra cazuela el doble de agua que de arroz y déjalo al fuego durante unos quince minutos. En cuanto esté listo, apaga el fuego y reserva. "
-        },
-        {
-            "step": "",
-            "description": "Por otro lado, pela la zanahoria, lávala y córtala a tiras finas. Ponla en una tercera olla junto con los guisantes durante unos cinco minutos hasta que ambos ingredientes estén dorados.  "
-        },
-        {
-            "step": "",
-            "description": "Si el arroz y la zanahoria y los guisantes ya están listos, solo te queda el último paso: mezclarlo todo en la olla donde está el pollo. Ponlo todo junto y remuve. ¡Voilá! ¡Tu arroz con pollo colombiano estará listo! ¡Que aproveche! "
+          "step": "",
+          "description": "Cubre el molde con papel de aluminio y ponlo en el horno.  Deja que se haga unos 35 o 40 minutos. Y, pasado este tiempo, ya puedes apagar el horno, apartar y servir tu exquisita polenta argentina. ¡Esperamos que te haya gustado esta receta! ¡Muy buen provecho!"
         }
-    ]
-    }, 
-    {
-    "name": "Receta de arepas de yuca",
-    "img": "https://unareceta.com/wp-content/uploads/2017/05/arepas-de-yuca.jpg",
-    "cuisine": "Colombiana",
-    "location": {
-        "lat": 0.0,
-        "long": 0.0
+      ]
     },
-    "description": "Sabemos que las arepas venezolanas y colombianas tradicionales se elaboran con harina de maíz precocida pero ¿por qué no darles una vuelta diferente y hacer unas ricas arepas de yuca? Y es que con este ingrediente puedes hacer mucho más que la clásica yuca frita.",
-    "ingredients": [
+    {
+      "name": "Receta de calzone de jamón y queso",
+      "img": "https://unareceta.com/wp-content/uploads/2019/01/receta-calzone-jamon-queso-640x427.jpg",
+      "description": "¿Sabías que el calzone es oriundo de una región italiana llamada Nápoles? Esta recreación de la pizza tradicional es muy popular no sólo en Italia, sino en países como Argentina o Estados Unidos. Se puede rellenar con muchísimos ingredientes. ¡Así se hace un calzone de jamón y queso!",
+      "cuisine": "Argentina",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "ingredients": [
         {
-            "title": "",
-            "items": [
-                "1 kilo de yuca",
-                "Mantequilla",
-                "Agua",
-                "Sal"
-            ]
+          "title": "Para la masa:",
+          "items": [
+            "3 tazas de harina ",
+            "3/4 taza de agua caliente",
+            "12 gr. de levadura instantánea",
+            "1 cucharada de aceite de oliva",
+            "1 cucharadita de sal"
+          ]
+        },
+        {
+          "title": "Para el relleno:",
+          "items": [
+            "200 gr. de jamón cocido",
+            "200 gr. de queso mozzarella",
+            "1 taza de salsa de tomate",
+            "4 hojas de albahaca fresca",
+            "2 cucharadas de aceite de oliva",
+            "Orégano",
+            "Pimienta negra",
+            "Sal"
+          ]
         }
-    ],
-    "steps": [
+      ],
+      "steps": [
         {
-            "step": "",
-            "description": "Hacer las arepas de yuca es tan fácil como elaborar las tradicionales de maíz, por lo que si eres un ávido \"arepero\" no tendrás ningún problema en conseguirlo. "
+          "step": "",
+          "description": "Como la masa debe reposarse antes, vas a comenzar por ella y lo primero es tamizarla con un colador. Disuelve la levadura en el agua caliente, luego añade la sal, vierte sobre la harina y comienza a amasar."
         },
         {
-            "step": "",
-            "description": "Lo primero que deberás hacer es llenar una olla con agua y un poco de sal y ponerla a hervir, pues necesitarás cocer primero la yuca antes de convertirla en la masa de estas arepas creativas. \n"
+          "step": "",
+          "description": "Añade el aceite y sigue mezclando hasta que la masa se despegue con facilidad de tus dedos, esté sin grumos y uniforme. Luego tápala y déjala en reposo hasta que doble su tamaño."
         },
         {
-            "step": "",
-            "description": "Mientras el agua alcanza el punto de ebullición, lava y pela la yuca, luego córtala en porciones para hervirla. Mientras más pequeños sean los trozos más rápido se hará. "
+          "step": "",
+          "description": "Una vez que la masa esté lista, enciende el horno y precaliéntalo a 180°C. Luego, espolvorea la mesa con harina y extiende la masa con un rodillo como si fueras a hacer una pizza. Reserva."
         },
         {
-            "step": "",
-            "description": "Colócala con cuidado en el agua cuando comience a hervir y déjala cocinar hasta que esté blandita. El tiempo puede variar dependiendo del tamaño y grosor de los trozos. Una vez lista, escúrrela y déjala enfriar un poco. "
+          "step": "",
+          "description": "A continuación, trocea tanto el jamón como el queso y pica también las hojas de albahaca en pedacitos después de lavarlas."
         },
         {
-            "step": "",
-            "description": "Cuando esté más fría, retira la hebra del medio y comienza a rallar la yuca usando el lado del rallador que te dé los trozos más finos.  Reserva en un recipiente. "
+          "step": "",
+          "description": "Extiende la salsa por tu masa, procura no llegar hasta las bordes para que no se bote cuando la cierres y coloca encima el jamón troceado pero sólo en una mitad. Cubre con el queso, espolvorea con orégano y  la albahaca."
         },
         {
-            "step": "",
-            "description": "Una vez rallada, añade al recipiente aproximadamente 3/4 de taza de agua tibia, dos cucharadas de mantequilla (o la cantidad que prefieras) y una pizca de sal. "
+          "step": "",
+          "description": "Humedece los bordes de tu calzone con un poco de agua y ciérralo como si de una empanada se tratara. Para sellarlo, presiona con los dedos."
         },
         {
-            "step": "",
-            "description": "Amasa como lo haces con las arepas tradicionales hasta formar una masa compacta y manejable pero un poco más seca que la de maíz. Haz tus bolitas de masa de yuca y dales la forma de arepa, que irás colocando en un plato a medida que las haces. "
+          "step": "",
+          "description": "Engrasa una bandeja de hornear con un chorrito de aceite, coloca encima tu calzone, realiza varios cortes pequeños para que salga el vapor durante la cocción y cocina durante 35 minutos."
         },
         {
-            "step": "",
-            "description": "Añade un poco de aceite a un budare o sartén y, una vez caliente, ve colocando las arepas para dorarlas durante 5 minutos por cada lado. Como la yuca ya está cocinada solo necesitarás darle color y ese toque crujiente que tanto nos gusta. "
-        },
-        {
-            "step": "",
-            "description": "Si lo deseas puedes rematarlas 5 minutos en el horno bien caliente a 220 ºC para que se pongan aún más crujientes. Sirve estas sabrosas arepas de yuca con queso, mantequilla, huevo ¡o con lo que quieras! Verás como triunfan en casa. "
+          "step": "",
+          "description": "Una vez que tu calzone de jamón y queso esté dorado, sácalo del horno y ¡a disfrutarlo!"
         }
-    ]
+      ]
     },
     {
-    "name": "Receta de chicharrón de cerdo colombiano",
-    "img": "https://unareceta.com/wp-content/uploads/2017/09/receta-de-chicharron-de-cerdo-colombiano.jpg",
-    "cuisine": "Colombiana",
-    "location": {
-        "lat": 0.0,
-        "long": 0.0
-    },
-    "description": "El chicharrón de cerdo colombiano es uno de los platos más famosos de Latinoamérica, pues es uno de los componentes más preciados de la famosa Bandeja Paisa colombiana. Esta receta resulta de lo más fácil y es ideal para prepararla en esos días en que queremos darnos un placer calórico. ¡Te va a encantar!",
-    "ingredients": [
+      "name": "Receta de polenta con salsa de pollo",
+      "img": "https://unareceta.com/wp-content/uploads/2017/06/receta-de-polenta-con-salsa-de-pollo.jpg",
+      "cuisine": "Argentina",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "La polenta admite gran cantidad de variantes pero hoy queremos presentarte una forma de hacer este plato de origen italiano especialmente sabrosa, la polenta con salsa de pollo. Merece la pena ponerse con esta receta porque su sabor es un auténtico placer. Además, si sigues los pasos que te explicamos a continuación en Unareceta.com no te costará nada. ¿Quieres comprobarlo?",
+      "ingredients": [
         {
-            "title": "",
-            "items": [
-                "2 kg. de tocino de cerdo",
-                "1 cucharadita de bicarbonato de sodio",
-                "1 cucharadita de sal",
-                "2 tazas de agua"
-            ]
+          "title": "Para la polenta",
+          "items": [
+            "200 gr. de harina de maíz",
+            "400 ml. de leche",
+            "3 huevos",
+            "3 cucharadas de margarina",
+            "2 cucharadas de azúcar",
+            "½ cucharada de sal"
+          ]
+        },
+        {
+          "title": "Para la salsa:",
+          "items": [
+            "500 gr. de muslos de pollo",
+            "300 gr. de salchichas",
+            "1 cebolla",
+            "2 zanahorias",
+            "1 lata de tomate",
+            "1 copa de vino blanco",
+            "50 gr. de hongos secos",
+            "100 ml. de caldo de pollo",
+            "1 rama de romero",
+            "1 rama de perejil fresco",
+            "1 hoja de laurel",
+            "Orégano",
+            "Tomillo",
+            "Aceite de oliva",
+            "Pimienta negra molida",
+            "Sal"
+          ]
         }
-    ],
-    "steps": [
+      ],
+      "steps": [
         {
-            "step": "",
-            "description": "Comienza a hacer este chicharrón de cerdo colombiano lavando el tocino. Luego, colócalo en una bandeja con la piel hacia abajo y realiza cortes transversales para obtener trozos de 2 centímetros de grueso cada uno. "
+          "step": "",
+          "description": "Pon a calentar bastante aceite de oliva en una cazuela de barro y, mientras se calienta, quítale la piel a los muslitos de pollo."
         },
         {
-            "step": "",
-            "description": "Una vez que tengas el tocino limpio y cortado, frota cada pieza con bicarbonato de sodio vigilando cubrir cada lado con bicarbonato. "
+          "step": "",
+          "description": "Una vez que esté bien caliente el aceite, añade el pollo a la cazuela y sofríelo por todas partes hasta que esté bien doradito. Con unos diez minutos a fuego medio será suficiente. "
         },
         {
-            "step": "",
-            "description": "Luego, incorpora el tocino a una olla mediana y agrega el agua y la sal. Deja cocer la carne a fuego medio hasta que se seque toda el agua. "
+          "step": "",
+          "description": "A continuación corta las salchichas y añádelas a la cazuela para que se hagan junto con los muslos de pollo. Baja el fuego para evitar que se quemen. "
         },
         {
-            "step": "",
-            "description": "Cuando el agua se haya evaporado, deja que el tocino se fría en su misma grasa durante veinte minutos o hasta que notes que los trozos están dorados por todos sus lados. "
+          "step": "",
+          "description": "Pela ahora la cebolla, pártela en cuatro partes y échala también en la cazuela. Haz lo mismo con las zanahorias. "
         },
         {
-            "step": "",
-            "description": "Retira la olla del fuego y sirve inmediatamente tu chicharrón de cerdo colombiano. ¿Viste qué fácil es? Corre a probarlo, ¡te encantará!"
+          "step": "",
+          "description": "En cuanto las verduras se hayan pochadoun poquito, vierte el vino blanco por encima y sube el fuego al máximo durante cinco minutos para que se evapore el alcohol. "
+        },
+        {
+          "step": "",
+          "description": "Remoja los hongos en agua caliente y córtalos en láminas. Echalos en la cazuela con el resto de ingredientes y pon también la salsa de tomate junto con una mitad del caldo de pollo. Reserva la otra mitad. "
+        },
+        {
+          "step": "",
+          "description": "Echa ahora todas las especias en la cazuela y pon también un poco de sal."
+        },
+        {
+          "step": "",
+          "description": "Deja que se vaya haciendo todo a fuego lento hasta que la carne esté hecha y la salsa haya reducido bastante. Esto tardará unos quince minutos. A medida que lo vaya requiriendo, añade caldo para que no se quede muy seco el contenido de la cazuela."
+        },
+        {
+          "step": "",
+          "description": "Haz ahora la polenta. Para ello, todo lo que tienes que hacer es echar los ingredientes de la mezcla, es decir, la harina de maíz, la leche, la mantequilla, la sal, el azúcar y los huevos en el vaso de la batidora y mezclarlo todo. "
+        },
+        {
+          "step": "",
+          "description": "Si la salsa ya está lista, es hora de servir tu plato. Para ello, pon un poco de polenta y vierte por encima la salsa de pollo. ¡Esperamos que te guste! ¡Muy buen provecho!"
         }
-    ]
+      ]
     },
     {
-        "name": "Receta de consomé de pescado colombiano",
-        "img": "https://unareceta.com/wp-content/uploads/2018/01/receta-de-consome-de-pescado-colombiano.jpg",
-        "cuisine": "Colombiana",
-        "location": {
-            "lat": 0.0,
-            "long": 0.0
+      "name": "Receta de turrón de avena",
+      "img": "https://unareceta.com/wp-content/uploads/2016/11/turron-de-avena-640x427.jpg",
+      "cuisine": "Argentina",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "¿Quieres aprender a preparar un delicioso turrón de avena? Este dulce es muy típico en Argentina y también se conoce como turrón de Quaker debido a una famosa marca de avena (avena Quaker).",
+      "ingredients": [
+        {
+          "title": "",
+          "items": [
+            "1 paquete de galletas tostadas cuadradas",
+            "150 gr. de avena en copos",
+            "200 gr. de mantequilla",
+            "250 gr. de avena",
+            "100 gr. de chocolate para repostería (en barra)",
+            "200 gr. de azúcar",
+            "3 cucharadas de dulce de leche",
+            "1 vaso de leche"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "En un cazo derrite la mantequilla a fuego lento y añade después la leche y el chocolate. Sin dejar de remover, deja que se vaya derritiendo también el chocolate."
         },
-        "description": "Hoy en Unareceta.com, te vamos a enseñar hacer un consomé de pescado colombiano. Este plato suele prepararse en las costas de Colombia, y aunque dependiendo de la región puede variar un poco, lo que todos tienen en común es su alto valor nutricional.",
-        "ingredients": [
-            {
-                "title": "",
-                "items": [
-                    "600 gr. de rodajas de bagre",
-                    "1 cebolla grande",
-                    "3 cebollín",
-                    "3 dientes de ajo",
-                    "1 pimentón",
-                    "4 papas grandes",
-                    "3 hojas de culantro fresco picado",
-                    "2 ramas de cilantro fresco picado",
-                    "1 cucharada de orégano",
-                    "1.5 litros de agua",
-                    "Sal al gusto"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "Para empezar, lo primero que debes hacer es colocar el pescado en una recipiente con agua y dejarlo en remojo durante 10 minutos."
-            },
-            {
-                "step": "",
-                "description": "Mientras, lava todos los aliños y pícalos lo más pequeño que puedas. Pela las papas y trocea en pedazos grandes.\n\n"
-            },
-            {
-                "step": "",
-                "description": "Vierte un litro de agua en una olla grande, agrega las cebollas, el cebollín, el pimentón, el culantro, los ajos, el pescado, el orégano, la sal al gusto y lleva al fuego."
-            },
-            {
-                "step": "",
-                "description": "Cuando el agua hierva, incorpora las papas, tapa y cocina a fuego bajo durante 35 minutos o hasta que el pescado esté bien cocido y las papas blandas."
-            },
-            {
-                "step": "",
-                "description": "Rectifica la sal antes de apartar del fuego y cuando vayas a servir tu consomé de pescado colombiano, espolvorea cada plato con un poco de cilantro picado.  ¡Muy buen provecho!"
-            }
-        ]
+        {
+          "step": "",
+          "description": "Después, añade los copos de avena, la leche, el azúcar y las tres cucharadas de dulce de leche. Sin dejar de remover, mantenlo a fuego lento durante 5 minutos. Retíralo y reserva la mezcla."
+        },
+        {
+          "step": "",
+          "description": "En un molde coloca una capa de galletas y sobre ésta una capa de la mezcla y así sucesivamente hasta completarlo. La última capa siempre será la de la mezcla."
+        },
+        {
+          "step": "",
+          "description": "Pon el turrón de avena en el nevera como mínimo una hora. Después sácalo y decóralo como más te guste. Una sugerencia es que lo cortes en porciones individuales como te mostramos en la imagen."
+        }
+      ]
     },
     {
-        "name": "Receta de pavo al horno peruano",
-        "img": "https://unareceta.com/wp-content/uploads/2016/08/pavo-al-horno-peruano-640x427.jpg",
-        "cuisine": "Peruana",
-        "location": {
-            "lat": 0.0,
-            "long": 0.0
+      "name": "Receta de arroz con pollo colombiano",
+      "img": "https://unareceta.com/wp-content/uploads/2015/06/arroz-con-pollo-colombiano.jpg",
+      "cuisine": "Colombiana",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "El arroz atollado es uno de los platos más populares de la cocina colombiana pero no es la única manera de cocinar este cereal y en Unareceta.com te vamos a enseñar otra opción igual de rica, el arroz con pollo colombiano. En cuanto lo pruebes, ¡verás lo bueno que está!",
+      "ingredients": [
+        {
+          "title": "",
+          "items": [
+            "300 gr. de pechuga de pollo",
+            "500 gr. de arroz",
+            "250 gr. de guisantes",
+            "1 cebolla",
+            "200 gr. de zanahoria",
+            "2 dientes de ajo",
+            "Salsa de tomate",
+            "Pimentón dulce",
+            "Sal",
+            "Cilantro picado",
+            "Aceite de oliva",
+            "Agua"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "Lava bien el pollo y quítale la grasa que pudiese contener. Después, córtalo a tacos y reserva. "
         },
-        "description": "En Perú es tradición preparar un pavo para las fiestas navideñas. El pavo al horno peruano es un plato muy sabroso, en el que se utilizan varios ingredientes originarios de la zona para darle más sabor a la carne. ¿Quieres saber cómo se hace? Unareceta.com te enseña a preparar esta delicia peruana para que puedas disfrutarlo junto a tu familia y amigos.",
-        "ingredients": [
-            {
-                "title": "",
-                "items": [
-                    "1 pavo de 8 kg",
-                    "3 cucharadas de ajo molido",
-                    "5 cucharadas de sal",
-                    "2 cucharadas de orégano",
-                    "2 cucharadas de comino",
-                    "2 cucharadas de ají mirasol molido",
-                    "2 cucharadas de ají panca molido",
-                    "2 cucharadas de ají amarillo molido",
-                    "1 taza y media de cerveza rubia",
-                    "½ cucharada de vinagre tinto",
-                    "2 cucharadas de azúcar moreno",
-                    "1 poro cortado en dos",
-                    "1 cebolla",
-                    "½ taza sillau",
-                    "1 cucharadita de mostaza",
-                    "8 dientes de ajo",
-                    "1 zanahoria",
-                    "1 cucharada de chuño",
-                    "Aceite de oliva"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "Este plato debes empezar a prepararlo el día anterior para que el pavo tenga mejor sabor y la carne se macere adecuadamente. \nEn un cuenco vas a mezclar la media taza de cerveza rubia con una cucharada de sal. Remueve bien hasta que la sal haya quedado totalmente disuelta. "
-            },
-            {
-                "step": "",
-                "description": "Ahora, con sumo cuidado, coge una jeringuilla y vas inyectando la mezcla en diferentes partes del pavo, hasta que ya no te quede nada. "
-            },
-            {
-                "step": "",
-                "description": "A continuación, pon una sartén a fuego bajo con un poco de aceite. Cuando esté caliente, le echas las cucharadas de ají mirasol, ají panca y ají amarillo molido, cuatro cucharadas de sal y dos cucharadas de azúcar moreno, pimienta, comino y orégano. Remueve bien para que se vaya formando una mezcla homogénea."
-            },
-            {
-                "step": "",
-                "description": "Una vez que los ingredientes luzcan homogéneos, mezcla media taza de vinagre tinto con media taza de sillau y una cucharadita de mostaza. Remueve por un minuto y luego vierte la mezcla en la sartén, removiendo ahora con la ayuda de una varilla para que se consiga una mejor combinación de todos los ingredientes. Apaga el fuego y retira la sartén. "
-            },
-            {
-                "step": "",
-                "description": "Este será el aderezo para macerar tu carne, por eso vierte esta mezcla sobre el pavo, recúbrelo con papel film y mételo en la nevera durante 12 horas para que el ave adquiera un sabor intenso y delicioso. A las 6 horas, voltea el pavo para que se macere adecuadamente por ambos lados. "
-            },
-            {
-                "step": "",
-                "description": "Al día siguiente, una hora antes de cocinar, saca el pavo de la nevera para que adquiera la temperatura del ambiente. Cuando hayan transcurrido 40 minutos desde que sacaste el pavo, deberás encender el horno a 200 ºC para precalentarlo mientras preparas el resto de verduras que acompañarán este plato. \n"
-            },
-            {
-                "step": "",
-                "description": "Pela la cebolla y la pícala en trozos pequeños, los dientes de ajo también los pelas y los picas. La zanahoria, tras haberla pelado y lavado con agua fría, la cortas en trozos mientras que el poro lo cortas en dados."
-            },
-            {
-                "step": "",
-                "description": "Todas estas verduras las repartes por la bandeja y justo encima colocas el pavo cubierto con papel aluminio para evitar que se queme. Si tienes una bolsa de pollo asado, mete el pavo dentro de la bolsa en lugar de usar papel aluminio. "
-            },
-            {
-                "step": "",
-                "description": "Mete en el horno a 180º C para que se haga durante aproximadamente 5 horas y media. En el caso de haber comprado un pavo más grande, debes hornearlo 20 minutos por cada kilo de peso, sumando el peso de las verduras de la fuente. Durante los últimos 40 minutos de cocción, sube el fuego a 200 ºC  y retira el papel aluminio para que la piel se dore. "
-            },
-            {
-                "step": "",
-                "description": "Mientras el pavo esté en el horno, más o menos cada 20 minutos deberás usar una cuchara para bañarlo con el jugo que se forma en la bandeja, así no se secará y garantizarás un pavo al horno peruano jugoso y delicioso. "
-            },
-            {
-                "step": "",
-                "description": "Una vez que esté listo, si no lo vas a sacar ya para servirlo, déjalo dentro del horno apagado y así se mantendrá a buena temperatura para que cuando lo sirvas esté en su punto. En el caso de haberlo metido en una bolsa para pollos, sácalo de la bolsa y vuelve a ponerlo en la bandeja."
-            },
-            {
-                "step": "",
-                "description": "El pavo al horno peruano debe reposar durante al menos 20 minutos antes de cortarlo, de este modo no deshará y estará delicioso y en su punto. ¡Buen provecho! "
-            }
-        ]
+        {
+          "step": "",
+          "description": "Pela y pica la cebolla y los dientes de ajo y, en cuanto los tengas listos, ponlos en una olla con un poco de aceite. "
+        },
+        {
+          "step": "",
+          "description": "Cuando ambos ingredientes estén bien dorados, lo cual solo les llevará cinco minutos, agrega los trozos de pollo para que se hagan bien. Añade también el cilantro picado y deja que se haga todo junto durante diez minutos. "
+        },
+        {
+          "step": "",
+          "description": "Agrega la salsa de tomate y un poco de pimentón dulce y sal y remueve bien. Tapa para que el pollo quede bien integrado en la mezcla y espera cinco minutos. Después apaga el fuego. "
+        },
+        {
+          "step": "",
+          "description": "Pon en otra cazuela el doble de agua que de arroz y déjalo al fuego durante unos quince minutos. En cuanto esté listo, apaga el fuego y reserva. "
+        },
+        {
+          "step": "",
+          "description": "Por otro lado, pela la zanahoria, lávala y córtala a tiras finas. Ponla en una tercera olla junto con los guisantes durante unos cinco minutos hasta que ambos ingredientes estén dorados.  "
+        },
+        {
+          "step": "",
+          "description": "Si el arroz y la zanahoria y los guisantes ya están listos, solo te queda el último paso: mezclarlo todo en la olla donde está el pollo. Ponlo todo junto y remuve. ¡Voilá! ¡Tu arroz con pollo colombiano estará listo! ¡Que aproveche! "
+        }
+      ]
     },
     {
-        "name": "Receta de lomo de cerdo al horno peruano",
-        "img": "https://unareceta.com/wp-content/uploads/2019/02/receta-lomo-cerdo-horno-peruano-640x427.jpg",
-        "cuisine": "Peruana",
-        "location": {
-            "lat": 0.0,
-            "long": 0.0
+      "name": "Receta de arepas de yuca",
+      "img": "https://unareceta.com/wp-content/uploads/2017/05/arepas-de-yuca.jpg",
+      "cuisine": "Colombiana",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "Sabemos que las arepas venezolanas y colombianas tradicionales se elaboran con harina de maíz precocida pero ¿por qué no darles una vuelta diferente y hacer unas ricas arepas de yuca? Y es que con este ingrediente puedes hacer mucho más que la clásica yuca frita.",
+      "ingredients": [
+        {
+          "title": "",
+          "items": [
+            "1 kilo de yuca",
+            "Mantequilla",
+            "Agua",
+            "Sal"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "Hacer las arepas de yuca es tan fácil como elaborar las tradicionales de maíz, por lo que si eres un ávido \"arepero\" no tendrás ningún problema en conseguirlo. "
         },
-        "description": "Hoy en Unareceta.com te invitamos a disfrutar del sabor de un lomo de cerdo al horno peruano que tanto nos gusta. ¡Es perfecto para una cena de lujo!",
-        "ingredients": [
-            {
-                "title": "",
-                "items": [
-                    "1.4 kg. de lomo de cerdo",
-                    "2 ramas de romero",
-                    "4 dientes de ajo",
-                    "1 zanahoria",
-                    "1 rama de apio",
-                    "1 puerro",
-                    "4 tazas de agua",
-                    "1 taza de vino blanco",
-                    "4 rebanadas de pan de molde",
-                    "1/2 cucharadita de pimienta negra",
-                    "Sal"
-                ]
-            },
-            {
-                "title": "Para la salsa",
-                "items": [
-                    "15 ml. de salsa Hoisin",
-                    "15 ml. de salsa de ostras",
-                    "1 cucharada de azúcar moreno",
-                    "1 taza de caldo de cocción del lomo",
-                    "1/4 cucharadita de jengibre rallado",
-                    "1 cucharadita de aceite de sésamo",
-                    "Una pizca de canela china"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "Vas a comenzar preparando una salmuera, para ello vierte el agua y cinco cucharaditas de sal en un recipiente, cinco cucharaditas de sal, revuelve, sumerge el lomo, tapa y refrigera durante cuatro horas."
-            },
-            {
-                "step": "",
-                "description": "Transcurrido el tiempo, precalienta el horno a 230°C y luego lava el lomo, sécalo bien, realiza cortes superficiales en forma de diamante y salpimienta."
-            },
-            {
-                "step": "",
-                "description": "Coloca el lomo en una bandeja y hornéalo durante 20 minutos para que la carne se selle. Mientras, pela los ajos y tritúralos, lava la rama de apio y trocéala, lava, pela y rebana tanto la zanahoria como la parte blanca del puerro."
-            },
-            {
-                "step": "",
-                "description": "Pasados los 20 minutos, saca el lomo y agrega a su alrededor el romero, las verduras troceadas, el ajo, baña con el vino y hornea durante cinco minutos para que se evapore el alcohol."
-            },
-            {
-                "step": "",
-                "description": "A continuación, cúbrelo con papel aluminio y hornéalo durante 45 minutos a 160°C. Para dorarlo, destápalo y déjalo en el horno durante 15 minutos más. Cuando esté listo, llévalo a un plato y rebánalo al enfriarse.\n\n"
-            },
-            {
-                "step": "",
-                "description": "Para hacer la salsa, retira el exceso de grasa de los jugos de cocción con el pan de molde y cuela. Mezcla los ingredientes en una sartén y cocina a fuego bajo hasta lograr la consistencia deseada."
-            },
-            {
-                "step": "",
-                "description": "Sirve tu lomo de cerdo al horno peruano acompañado de su salsa. Queda riquísimo. ¡Compruébalo ya !"
-            }
-        ]
+        {
+          "step": "",
+          "description": "Lo primero que deberás hacer es llenar una olla con agua y un poco de sal y ponerla a hervir, pues necesitarás cocer primero la yuca antes de convertirla en la masa de estas arepas creativas. \n"
+        },
+        {
+          "step": "",
+          "description": "Mientras el agua alcanza el punto de ebullición, lava y pela la yuca, luego córtala en porciones para hervirla. Mientras más pequeños sean los trozos más rápido se hará. "
+        },
+        {
+          "step": "",
+          "description": "Colócala con cuidado en el agua cuando comience a hervir y déjala cocinar hasta que esté blandita. El tiempo puede variar dependiendo del tamaño y grosor de los trozos. Una vez lista, escúrrela y déjala enfriar un poco. "
+        },
+        {
+          "step": "",
+          "description": "Cuando esté más fría, retira la hebra del medio y comienza a rallar la yuca usando el lado del rallador que te dé los trozos más finos.  Reserva en un recipiente. "
+        },
+        {
+          "step": "",
+          "description": "Una vez rallada, añade al recipiente aproximadamente 3/4 de taza de agua tibia, dos cucharadas de mantequilla (o la cantidad que prefieras) y una pizca de sal. "
+        },
+        {
+          "step": "",
+          "description": "Amasa como lo haces con las arepas tradicionales hasta formar una masa compacta y manejable pero un poco más seca que la de maíz. Haz tus bolitas de masa de yuca y dales la forma de arepa, que irás colocando en un plato a medida que las haces. "
+        },
+        {
+          "step": "",
+          "description": "Añade un poco de aceite a un budare o sartén y, una vez caliente, ve colocando las arepas para dorarlas durante 5 minutos por cada lado. Como la yuca ya está cocinada solo necesitarás darle color y ese toque crujiente que tanto nos gusta. "
+        },
+        {
+          "step": "",
+          "description": "Si lo deseas puedes rematarlas 5 minutos en el horno bien caliente a 220 ºC para que se pongan aún más crujientes. Sirve estas sabrosas arepas de yuca con queso, mantequilla, huevo ¡o con lo que quieras! Verás como triunfan en casa. "
+        }
+      ]
     },
     {
-        "name": "Receta de chicharrón de pollo peruano",
-        "img": "https://unareceta.com/wp-content/uploads/2017/09/receta-de-chicharron-de-pollo-peruano-640x426.jpg",
-        "cuisine": "Peruana",
-        "location": {
-            "lat": 0.0,
-            "long": 0.0
+      "name": "Receta de chicharrón de cerdo colombiano",
+      "img": "https://unareceta.com/wp-content/uploads/2017/09/receta-de-chicharron-de-cerdo-colombiano.jpg",
+      "cuisine": "Colombiana",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "El chicharrón de cerdo colombiano es uno de los platos más famosos de Latinoamérica, pues es uno de los componentes más preciados de la famosa Bandeja Paisa colombiana. Esta receta resulta de lo más fácil y es ideal para prepararla en esos días en que queremos darnos un placer calórico. ¡Te va a encantar!",
+      "ingredients": [
+        {
+          "title": "",
+          "items": [
+            "2 kg. de tocino de cerdo",
+            "1 cucharadita de bicarbonato de sodio",
+            "1 cucharadita de sal",
+            "2 tazas de agua"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "Comienza a hacer este chicharrón de cerdo colombiano lavando el tocino. Luego, colócalo en una bandeja con la piel hacia abajo y realiza cortes transversales para obtener trozos de 2 centímetros de grueso cada uno. "
         },
-        "description": "Si eres un fanático del pollo frito hoy te vamos a enseñar a cocinar un chicharrón de pollo peruano típico de zona andina que es muy fácil de hacer y con un resultado de los mejores.",
-        "ingredients": [
-            {
-                "title": "",
-                "items": [
-                    "1 kg. de pechuga de pollo o muslo deshuesado",
-                    "4 cucharadas de vinagre blanco",
-                    "1 cucharada de mostaza",
-                    "2 dientes de ajo",
-                    "1 cucharada de jengibre rallado (opcional)",
-                    "Pimienta recién molida al gusto",
-                    "3 cucharaditas de sal",
-                    "1 taza de harina de maíz",
-                    "1 taza de pan molido",
-                    "3 huevos",
-                    "Aceite vegetal para freír"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "Para comenzar a preparar este chicharrón de pollo peruano lo primero que tienes que hacer es cortar el pollo en trozos de tamaño mediano, procura que te queden de unos 2 centímetros de ancho aproximadamente para que se cocinen rápido. Reserva."
-            },
-            {
-                "step": "",
-                "description": "Pela los dientes de ajo y machácalos en un mortero, también puedes pasarlos por un triturador de ajos. Si vas a incluir el jengibre en la preparación retira la piel, rállalo y toma la medida requerida."
-            },
-            {
-                "step": "",
-                "description": "Coloca el pollo en un bol y agrega la mostaza, el vinagre, los ajos, el jengibre, la pimienta y la sal. Mezcla bien, tapa y lleva al frigorífico para que se marine durante media hora."
-            },
-            {
-                "step": "",
-                "description": "A continuación coloca en un plato la harina de maíz, en otro el pan molido y en otro plato los huevos batidos con la ayuda de un tenedor.  Reserva."
-            },
-            {
-                "step": "",
-                "description": "Saca el pollo troceado y marinado del frigorífico, pásalo primero por la harina de maíz, luego por los huevos y finamente por el pan molido."
-            },
-            {
-                "step": "",
-                "description": "Calienta abundante aceite vegetal en una sartén para que el pollo quede cubierto y fríelo hasta que se dore por ambos lados. Escurre el exceso de aceite colocándolo sobre papel absorbente de cocina. "
-            },
-            {
-                "step": "",
-                "description": "Esperamos que disfrutes esta receta de chicharrón de pollo peruano tanto como nosotros, acompáñalo con unas papas fritas y la salsa de tu preferencia. ¡Qué aproveche!"
-            }
-        ]
+        {
+          "step": "",
+          "description": "Una vez que tengas el tocino limpio y cortado, frota cada pieza con bicarbonato de sodio vigilando cubrir cada lado con bicarbonato. "
+        },
+        {
+          "step": "",
+          "description": "Luego, incorpora el tocino a una olla mediana y agrega el agua y la sal. Deja cocer la carne a fuego medio hasta que se seque toda el agua. "
+        },
+        {
+          "step": "",
+          "description": "Cuando el agua se haya evaporado, deja que el tocino se fría en su misma grasa durante veinte minutos o hasta que notes que los trozos están dorados por todos sus lados. "
+        },
+        {
+          "step": "",
+          "description": "Retira la olla del fuego y sirve inmediatamente tu chicharrón de cerdo colombiano. ¿Viste qué fácil es? Corre a probarlo, ¡te encantará!"
+        }
+      ]
     },
     {
-        "name": "Receta de pie de manzana peruano",
-        "img": "https://unareceta.com/wp-content/uploads/2017/10/receta-de-pie-de-manzana-peruano.jpg",
-        "cuisine": "Peruana",
-        "location": {
-            "lat": 0.0,
-            "long": 0.0
+      "name": "Receta de consomé de pescado colombiano",
+      "img": "https://unareceta.com/wp-content/uploads/2018/01/receta-de-consome-de-pescado-colombiano.jpg",
+      "cuisine": "Colombiana",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "Hoy en Unareceta.com, te vamos a enseñar hacer un consomé de pescado colombiano. Este plato suele prepararse en las costas de Colombia, y aunque dependiendo de la región puede variar un poco, lo que todos tienen en común es su alto valor nutricional.",
+      "ingredients": [
+        {
+          "title": "",
+          "items": [
+            "600 gr. de rodajas de bagre",
+            "1 cebolla grande",
+            "3 cebollín",
+            "3 dientes de ajo",
+            "1 pimentón",
+            "4 papas grandes",
+            "3 hojas de culantro fresco picado",
+            "2 ramas de cilantro fresco picado",
+            "1 cucharada de orégano",
+            "1.5 litros de agua",
+            "Sal al gusto"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "Para empezar, lo primero que debes hacer es colocar el pescado en una recipiente con agua y dejarlo en remojo durante 10 minutos."
         },
-        "description": "Uno de los postres más populares que puedes preparar es el pie de manzana, y por eso hay tantas formas de prepararlo alrededor del mundo. Hoy en Unareceta.com te enseñaremos a cocinar un pie de manzana peruano. ¿Te nos unes?",
-        "ingredients": [
-            {
-                "title": "Para la masa",
-                "items": [
-                    "3 1/2 tazas de harina",
-                    "1/2 taza de mantequilla fría",
-                    "1/2 taza de azúcar blanca",
-                    "2 huevos",
-                    "1/4 cucharadita de sal"
-                ]
-            },
-            {
-                "title": "Para el relleno",
-                "items": [
-                    "5 manzanas verdes",
-                    "3/4 taza de azúcar morena",
-                    "1/4 taza de pasas (opcional)",
-                    "1/2 limón",
-                    "1 cucharada de canela",
-                    "1 cucharadita de clavos de olor en polvo",
-                    "1 cucharada de maicena"
-                ]
-            },
-            {
-                "title": "Para pintar la cobertura",
-                "items": [
-                    "1 huevo",
-                    "2 cucharadas de leche"
-                ]
-            }
-        ],
-        "steps": [
-            {
-                "step": "",
-                "description": "Vamos a empezar con la masa: Agrega la harina tamizada a un bol y mézclala con la sal. Corta la mantequilla fría en trozos e incorpórala uniendo con un tenedor, cuando tengas una mezcla arenosa agrega el azúcar y los huevos."
-            },
-            {
-                "step": "",
-                "description": "Amasa rápidamente con las manos, hasta que obtengas una masa homogénea. Divide en dos y guárdalas por separado en bolsitas plásticas. Refrigera durante media hora."
-            },
-            {
-                "step": "",
-                "description": "Para hacer el relleno, lava las manzanas, pélalas y retira el corazón. Rállalas por la parte gruesa del rallador o rebánalas, cúbrelas con el zumo de limón y remueve para que no se oxiden. "
-            },
-            {
-                "step": "",
-                "description": "En un recipiente aparte mezcla el azúcar, la maicena, la canela y los clavos de olor en polvo. Añade a las manzanas y mezcla, finalmente agrega las pasas si las vas a incluir. Reserva."
-            },
-            {
-                "step": "",
-                "description": "A continuación,  precalienta el horno a 180°C. Engrasa y enharina el molde que vayas a usar y saca una de las mitades de la masa de la nevera. "
-            },
-            {
-                "step": "",
-                "description": "Echa harina sobre una superficie plana y extiéndela con un rodillo. Forra el molde, incluyendo la paredes y cubre con el relleno de manzana."
-            },
-            {
-                "step": "",
-                "description": "Saca la otra parte de la masa y extiéndela también con el rodillo, realiza varias rajaduras en el centro para que salga el vapor y colócala sobre el relleno. Corta el exceso de masa y presiona los bordes con los dedos para sellar."
-            },
-            {
-                "step": "",
-                "description": "Mezcla el huevo con la leche y con una brochita cubre con una fina capa. Lleva al horno y cocina por 60 minutos. "
-            },
-            {
-                "step": "",
-                "description": "Cuando veas que unas burbujas de caramelo salen por las ranuras, ya podrás sacar del horno tu pie de manzana peruano. Enfría durante una hora antes de comerlo. ¡Buen provecho!"
-            }
-        ]
+        {
+          "step": "",
+          "description": "Mientras, lava todos los aliños y pícalos lo más pequeño que puedas. Pela las papas y trocea en pedazos grandes.\n\n"
+        },
+        {
+          "step": "",
+          "description": "Vierte un litro de agua en una olla grande, agrega las cebollas, el cebollín, el pimentón, el culantro, los ajos, el pescado, el orégano, la sal al gusto y lleva al fuego."
+        },
+        {
+          "step": "",
+          "description": "Cuando el agua hierva, incorpora las papas, tapa y cocina a fuego bajo durante 35 minutos o hasta que el pescado esté bien cocido y las papas blandas."
+        },
+        {
+          "step": "",
+          "description": "Rectifica la sal antes de apartar del fuego y cuando vayas a servir tu consomé de pescado colombiano, espolvorea cada plato con un poco de cilantro picado.  ¡Muy buen provecho!"
+        }
+      ]
+    },
+    {
+      "name": "Receta de pavo al horno peruano",
+      "img": "https://unareceta.com/wp-content/uploads/2016/08/pavo-al-horno-peruano-640x427.jpg",
+      "cuisine": "Peruana",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "En Perú es tradición preparar un pavo para las fiestas navideñas. El pavo al horno peruano es un plato muy sabroso, en el que se utilizan varios ingredientes originarios de la zona para darle más sabor a la carne. ¿Quieres saber cómo se hace? Unareceta.com te enseña a preparar esta delicia peruana para que puedas disfrutarlo junto a tu familia y amigos.",
+      "ingredients": [
+        {
+          "title": "",
+          "items": [
+            "1 pavo de 8 kg",
+            "3 cucharadas de ajo molido",
+            "5 cucharadas de sal",
+            "2 cucharadas de orégano",
+            "2 cucharadas de comino",
+            "2 cucharadas de ají mirasol molido",
+            "2 cucharadas de ají panca molido",
+            "2 cucharadas de ají amarillo molido",
+            "1 taza y media de cerveza rubia",
+            "½ cucharada de vinagre tinto",
+            "2 cucharadas de azúcar moreno",
+            "1 poro cortado en dos",
+            "1 cebolla",
+            "½ taza sillau",
+            "1 cucharadita de mostaza",
+            "8 dientes de ajo",
+            "1 zanahoria",
+            "1 cucharada de chuño",
+            "Aceite de oliva"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "Este plato debes empezar a prepararlo el día anterior para que el pavo tenga mejor sabor y la carne se macere adecuadamente. \nEn un cuenco vas a mezclar la media taza de cerveza rubia con una cucharada de sal. Remueve bien hasta que la sal haya quedado totalmente disuelta. "
+        },
+        {
+          "step": "",
+          "description": "Ahora, con sumo cuidado, coge una jeringuilla y vas inyectando la mezcla en diferentes partes del pavo, hasta que ya no te quede nada. "
+        },
+        {
+          "step": "",
+          "description": "A continuación, pon una sartén a fuego bajo con un poco de aceite. Cuando esté caliente, le echas las cucharadas de ají mirasol, ají panca y ají amarillo molido, cuatro cucharadas de sal y dos cucharadas de azúcar moreno, pimienta, comino y orégano. Remueve bien para que se vaya formando una mezcla homogénea."
+        },
+        {
+          "step": "",
+          "description": "Una vez que los ingredientes luzcan homogéneos, mezcla media taza de vinagre tinto con media taza de sillau y una cucharadita de mostaza. Remueve por un minuto y luego vierte la mezcla en la sartén, removiendo ahora con la ayuda de una varilla para que se consiga una mejor combinación de todos los ingredientes. Apaga el fuego y retira la sartén. "
+        },
+        {
+          "step": "",
+          "description": "Este será el aderezo para macerar tu carne, por eso vierte esta mezcla sobre el pavo, recúbrelo con papel film y mételo en la nevera durante 12 horas para que el ave adquiera un sabor intenso y delicioso. A las 6 horas, voltea el pavo para que se macere adecuadamente por ambos lados. "
+        },
+        {
+          "step": "",
+          "description": "Al día siguiente, una hora antes de cocinar, saca el pavo de la nevera para que adquiera la temperatura del ambiente. Cuando hayan transcurrido 40 minutos desde que sacaste el pavo, deberás encender el horno a 200 ºC para precalentarlo mientras preparas el resto de verduras que acompañarán este plato. \n"
+        },
+        {
+          "step": "",
+          "description": "Pela la cebolla y la pícala en trozos pequeños, los dientes de ajo también los pelas y los picas. La zanahoria, tras haberla pelado y lavado con agua fría, la cortas en trozos mientras que el poro lo cortas en dados."
+        },
+        {
+          "step": "",
+          "description": "Todas estas verduras las repartes por la bandeja y justo encima colocas el pavo cubierto con papel aluminio para evitar que se queme. Si tienes una bolsa de pollo asado, mete el pavo dentro de la bolsa en lugar de usar papel aluminio. "
+        },
+        {
+          "step": "",
+          "description": "Mete en el horno a 180º C para que se haga durante aproximadamente 5 horas y media. En el caso de haber comprado un pavo más grande, debes hornearlo 20 minutos por cada kilo de peso, sumando el peso de las verduras de la fuente. Durante los últimos 40 minutos de cocción, sube el fuego a 200 ºC  y retira el papel aluminio para que la piel se dore. "
+        },
+        {
+          "step": "",
+          "description": "Mientras el pavo esté en el horno, más o menos cada 20 minutos deberás usar una cuchara para bañarlo con el jugo que se forma en la bandeja, así no se secará y garantizarás un pavo al horno peruano jugoso y delicioso. "
+        },
+        {
+          "step": "",
+          "description": "Una vez que esté listo, si no lo vas a sacar ya para servirlo, déjalo dentro del horno apagado y así se mantendrá a buena temperatura para que cuando lo sirvas esté en su punto. En el caso de haberlo metido en una bolsa para pollos, sácalo de la bolsa y vuelve a ponerlo en la bandeja."
+        },
+        {
+          "step": "",
+          "description": "El pavo al horno peruano debe reposar durante al menos 20 minutos antes de cortarlo, de este modo no deshará y estará delicioso y en su punto. ¡Buen provecho! "
+        }
+      ]
+    },
+    {
+      "name": "Receta de lomo de cerdo al horno peruano",
+      "img": "https://unareceta.com/wp-content/uploads/2019/02/receta-lomo-cerdo-horno-peruano-640x427.jpg",
+      "cuisine": "Peruana",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "Hoy en Unareceta.com te invitamos a disfrutar del sabor de un lomo de cerdo al horno peruano que tanto nos gusta. ¡Es perfecto para una cena de lujo!",
+      "ingredients": [
+        {
+          "title": "",
+          "items": [
+            "1.4 kg. de lomo de cerdo",
+            "2 ramas de romero",
+            "4 dientes de ajo",
+            "1 zanahoria",
+            "1 rama de apio",
+            "1 puerro",
+            "4 tazas de agua",
+            "1 taza de vino blanco",
+            "4 rebanadas de pan de molde",
+            "1/2 cucharadita de pimienta negra",
+            "Sal"
+          ]
+        },
+        {
+          "title": "Para la salsa",
+          "items": [
+            "15 ml. de salsa Hoisin",
+            "15 ml. de salsa de ostras",
+            "1 cucharada de azúcar moreno",
+            "1 taza de caldo de cocción del lomo",
+            "1/4 cucharadita de jengibre rallado",
+            "1 cucharadita de aceite de sésamo",
+            "Una pizca de canela china"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "Vas a comenzar preparando una salmuera, para ello vierte el agua y cinco cucharaditas de sal en un recipiente, cinco cucharaditas de sal, revuelve, sumerge el lomo, tapa y refrigera durante cuatro horas."
+        },
+        {
+          "step": "",
+          "description": "Transcurrido el tiempo, precalienta el horno a 230°C y luego lava el lomo, sécalo bien, realiza cortes superficiales en forma de diamante y salpimienta."
+        },
+        {
+          "step": "",
+          "description": "Coloca el lomo en una bandeja y hornéalo durante 20 minutos para que la carne se selle. Mientras, pela los ajos y tritúralos, lava la rama de apio y trocéala, lava, pela y rebana tanto la zanahoria como la parte blanca del puerro."
+        },
+        {
+          "step": "",
+          "description": "Pasados los 20 minutos, saca el lomo y agrega a su alrededor el romero, las verduras troceadas, el ajo, baña con el vino y hornea durante cinco minutos para que se evapore el alcohol."
+        },
+        {
+          "step": "",
+          "description": "A continuación, cúbrelo con papel aluminio y hornéalo durante 45 minutos a 160°C. Para dorarlo, destápalo y déjalo en el horno durante 15 minutos más. Cuando esté listo, llévalo a un plato y rebánalo al enfriarse.\n\n"
+        },
+        {
+          "step": "",
+          "description": "Para hacer la salsa, retira el exceso de grasa de los jugos de cocción con el pan de molde y cuela. Mezcla los ingredientes en una sartén y cocina a fuego bajo hasta lograr la consistencia deseada."
+        },
+        {
+          "step": "",
+          "description": "Sirve tu lomo de cerdo al horno peruano acompañado de su salsa. Queda riquísimo. ¡Compruébalo ya !"
+        }
+      ]
+    },
+    {
+      "name": "Receta de chicharrón de pollo peruano",
+      "img": "https://unareceta.com/wp-content/uploads/2017/09/receta-de-chicharron-de-pollo-peruano-640x426.jpg",
+      "cuisine": "Peruana",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "Si eres un fanático del pollo frito hoy te vamos a enseñar a cocinar un chicharrón de pollo peruano típico de zona andina que es muy fácil de hacer y con un resultado de los mejores.",
+      "ingredients": [
+        {
+          "title": "",
+          "items": [
+            "1 kg. de pechuga de pollo o muslo deshuesado",
+            "4 cucharadas de vinagre blanco",
+            "1 cucharada de mostaza",
+            "2 dientes de ajo",
+            "1 cucharada de jengibre rallado (opcional)",
+            "Pimienta recién molida al gusto",
+            "3 cucharaditas de sal",
+            "1 taza de harina de maíz",
+            "1 taza de pan molido",
+            "3 huevos",
+            "Aceite vegetal para freír"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "Para comenzar a preparar este chicharrón de pollo peruano lo primero que tienes que hacer es cortar el pollo en trozos de tamaño mediano, procura que te queden de unos 2 centímetros de ancho aproximadamente para que se cocinen rápido. Reserva."
+        },
+        {
+          "step": "",
+          "description": "Pela los dientes de ajo y machácalos en un mortero, también puedes pasarlos por un triturador de ajos. Si vas a incluir el jengibre en la preparación retira la piel, rállalo y toma la medida requerida."
+        },
+        {
+          "step": "",
+          "description": "Coloca el pollo en un bol y agrega la mostaza, el vinagre, los ajos, el jengibre, la pimienta y la sal. Mezcla bien, tapa y lleva al frigorífico para que se marine durante media hora."
+        },
+        {
+          "step": "",
+          "description": "A continuación coloca en un plato la harina de maíz, en otro el pan molido y en otro plato los huevos batidos con la ayuda de un tenedor.  Reserva."
+        },
+        {
+          "step": "",
+          "description": "Saca el pollo troceado y marinado del frigorífico, pásalo primero por la harina de maíz, luego por los huevos y finamente por el pan molido."
+        },
+        {
+          "step": "",
+          "description": "Calienta abundante aceite vegetal en una sartén para que el pollo quede cubierto y fríelo hasta que se dore por ambos lados. Escurre el exceso de aceite colocándolo sobre papel absorbente de cocina. "
+        },
+        {
+          "step": "",
+          "description": "Esperamos que disfrutes esta receta de chicharrón de pollo peruano tanto como nosotros, acompáñalo con unas papas fritas y la salsa de tu preferencia. ¡Qué aproveche!"
+        }
+      ]
+    },
+    {
+      "name": "Receta de pie de manzana peruano",
+      "img": "https://unareceta.com/wp-content/uploads/2017/10/receta-de-pie-de-manzana-peruano.jpg",
+      "cuisine": "Peruana",
+      "location": {
+        "lat": 0,
+        "long": 0
+      },
+      "description": "Uno de los postres más populares que puedes preparar es el pie de manzana, y por eso hay tantas formas de prepararlo alrededor del mundo. Hoy en Unareceta.com te enseñaremos a cocinar un pie de manzana peruano. ¿Te nos unes?",
+      "ingredients": [
+        {
+          "title": "Para la masa",
+          "items": [
+            "3 1/2 tazas de harina",
+            "1/2 taza de mantequilla fría",
+            "1/2 taza de azúcar blanca",
+            "2 huevos",
+            "1/4 cucharadita de sal"
+          ]
+        },
+        {
+          "title": "Para el relleno",
+          "items": [
+            "5 manzanas verdes",
+            "3/4 taza de azúcar morena",
+            "1/4 taza de pasas (opcional)",
+            "1/2 limón",
+            "1 cucharada de canela",
+            "1 cucharadita de clavos de olor en polvo",
+            "1 cucharada de maicena"
+          ]
+        },
+        {
+          "title": "Para pintar la cobertura",
+          "items": [
+            "1 huevo",
+            "2 cucharadas de leche"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "step": "",
+          "description": "Vamos a empezar con la masa: Agrega la harina tamizada a un bol y mézclala con la sal. Corta la mantequilla fría en trozos e incorpórala uniendo con un tenedor, cuando tengas una mezcla arenosa agrega el azúcar y los huevos."
+        },
+        {
+          "step": "",
+          "description": "Amasa rápidamente con las manos, hasta que obtengas una masa homogénea. Divide en dos y guárdalas por separado en bolsitas plásticas. Refrigera durante media hora."
+        },
+        {
+          "step": "",
+          "description": "Para hacer el relleno, lava las manzanas, pélalas y retira el corazón. Rállalas por la parte gruesa del rallador o rebánalas, cúbrelas con el zumo de limón y remueve para que no se oxiden. "
+        },
+        {
+          "step": "",
+          "description": "En un recipiente aparte mezcla el azúcar, la maicena, la canela y los clavos de olor en polvo. Añade a las manzanas y mezcla, finalmente agrega las pasas si las vas a incluir. Reserva."
+        },
+        {
+          "step": "",
+          "description": "A continuación,  precalienta el horno a 180°C. Engrasa y enharina el molde que vayas a usar y saca una de las mitades de la masa de la nevera. "
+        },
+        {
+          "step": "",
+          "description": "Echa harina sobre una superficie plana y extiéndela con un rodillo. Forra el molde, incluyendo la paredes y cubre con el relleno de manzana."
+        },
+        {
+          "step": "",
+          "description": "Saca la otra parte de la masa y extiéndela también con el rodillo, realiza varias rajaduras en el centro para que salga el vapor y colócala sobre el relleno. Corta el exceso de masa y presiona los bordes con los dedos para sellar."
+        },
+        {
+          "step": "",
+          "description": "Mezcla el huevo con la leche y con una brochita cubre con una fina capa. Lleva al horno y cocina por 60 minutos. "
+        },
+        {
+          "step": "",
+          "description": "Cuando veas que unas burbujas de caramelo salen por las ranuras, ya podrás sacar del horno tu pie de manzana peruano. Enfría durante una hora antes de comerlo. ¡Buen provecho!"
+        }
+      ]
     }
-    
-]
+  ]

@@ -5,8 +5,8 @@
       "description": "Aunque la polenta es un plato que tiene su origen en Italia, cada día cuenta con más popularidad en diversos países. La polenta argentina por ejemplo es una buena muestra de ello, ya que como ves, en este país tienen su propia manera de preparar este plato, ¡y está realmente exquisito! ¿Quieres saber cómo se hace la típica polenta de Argentina? Entonces no te pierdas la receta que te presentamos a continuación en Unareceta.com, ¡te va a encantar!",
       "cuisine": "Argentina",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": -34.582990,
+        "long": -58.424190
       },
       "ingredients": [
         {
@@ -65,8 +65,8 @@
       "description": "¿Sabías que el calzone es oriundo de una región italiana llamada Nápoles? Esta recreación de la pizza tradicional es muy popular no sólo en Italia, sino en países como Argentina o Estados Unidos. Se puede rellenar con muchísimos ingredientes. ¡Así se hace un calzone de jamón y queso!",
       "cuisine": "Argentina",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": -34.595990,
+        "long": -58.392120
       },
       "ingredients": [
         {
@@ -219,8 +219,8 @@
       "img": "https://unareceta.com/wp-content/uploads/2016/11/turron-de-avena-640x427.jpg",
       "cuisine": "Argentina",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": -34.618120,
+        "long": -58.376020
       },
       "description": "¿Quieres aprender a preparar un delicioso turrón de avena? Este dulce es muy típico en Argentina y también se conoce como turrón de Quaker debido a una famosa marca de avena (avena Quaker).",
       "ingredients": [
@@ -262,8 +262,8 @@
       "img": "https://unareceta.com/wp-content/uploads/2015/06/arroz-con-pollo-colombiano.jpg",
       "cuisine": "Colombiana",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": 4.589810,
+        "long": -74.081540
       },
       "description": "El arroz atollado es uno de los platos más populares de la cocina colombiana pero no es la única manera de cocinar este cereal y en Unareceta.com te vamos a enseñar otra opción igual de rica, el arroz con pollo colombiano. En cuanto lo pruebes, ¡verás lo bueno que está!",
       "ingredients": [
@@ -321,8 +321,8 @@
       "img": "https://unareceta.com/wp-content/uploads/2017/05/arepas-de-yuca.jpg",
       "cuisine": "Colombiana",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": 4.638070,
+        "long": -75.569960
       },
       "description": "Sabemos que las arepas venezolanas y colombianas tradicionales se elaboran con harina de maíz precocida pero ¿por qué no darles una vuelta diferente y hacer unas ricas arepas de yuca? Y es que con este ingrediente puedes hacer mucho más que la clásica yuca frita.",
       "ingredients": [
@@ -380,8 +380,8 @@
       "img": "https://unareceta.com/wp-content/uploads/2017/09/receta-de-chicharron-de-cerdo-colombiano.jpg",
       "cuisine": "Colombiana",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": 10.3483595,
+        "long": -75.4568834
       },
       "description": "El chicharrón de cerdo colombiano es uno de los platos más famosos de Latinoamérica, pues es uno de los componentes más preciados de la famosa Bandeja Paisa colombiana. Esta receta resulta de lo más fácil y es ideal para prepararla en esos días en que queremos darnos un placer calórico. ¡Te va a encantar!",
       "ingredients": [
@@ -423,8 +423,8 @@
       "img": "https://unareceta.com/wp-content/uploads/2018/01/receta-de-consome-de-pescado-colombiano.jpg",
       "cuisine": "Colombiana",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": 4.6760153,
+        "long": -74.0502927
       },
       "description": "Hoy en Unareceta.com, te vamos a enseñar hacer un consomé de pescado colombiano. Este plato suele prepararse en las costas de Colombia, y aunque dependiendo de la región puede variar un poco, lo que todos tienen en común es su alto valor nutricional.",
       "ingredients": [
@@ -473,8 +473,8 @@
       "img": "https://unareceta.com/wp-content/uploads/2016/08/pavo-al-horno-peruano-640x427.jpg",
       "cuisine": "Peruana",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": -12.1203586,
+        "long": -77.0476404
       },
       "description": "En Perú es tradición preparar un pavo para las fiestas navideñas. El pavo al horno peruano es un plato muy sabroso, en el que se utilizan varios ingredientes originarios de la zona para darle más sabor a la carne. ¿Quieres saber cómo se hace? Unareceta.com te enseña a preparar esta delicia peruana para que puedas disfrutarlo junto a tu familia y amigos.",
       "ingredients": [
@@ -559,8 +559,8 @@
       "img": "https://unareceta.com/wp-content/uploads/2019/02/receta-lomo-cerdo-horno-peruano-640x427.jpg",
       "cuisine": "Peruana",
       "location": {
-        "lat": 0,
-        "long": 0
+        "lat": -13.1557475,
+        "long": -72.5271346
       },
       "description": "Hoy en Unareceta.com te invitamos a disfrutar del sabor de un lomo de cerdo al horno peruano que tanto nos gusta. ¡Es perfecto para una cena de lujo!",
       "ingredients": [

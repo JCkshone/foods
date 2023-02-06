@@ -315,8 +315,8 @@
             "description": "Si el arroz y la zanahoria y los guisantes ya están listos, solo te queda el último paso: mezclarlo todo en la olla donde está el pollo. Ponlo todo junto y remuve. ¡Voilá! ¡Tu arroz con pollo colombiano estará listo! ¡Que aproveche! "
         }
     ]
-}, 
-{
+    }, 
+    {
     "name": "Receta de arepas de yuca",
     "img": "https://unareceta.com/wp-content/uploads/2017/05/arepas-de-yuca.jpg",
     "cuisine": "Colombiana",
@@ -374,8 +374,8 @@
             "description": "Si lo deseas puedes rematarlas 5 minutos en el horno bien caliente a 220 ºC para que se pongan aún más crujientes. Sirve estas sabrosas arepas de yuca con queso, mantequilla, huevo ¡o con lo que quieras! Verás como triunfan en casa. "
         }
     ]
-},
-{
+    },
+    {
     "name": "Receta de chicharrón de cerdo colombiano",
     "img": "https://unareceta.com/wp-content/uploads/2017/09/receta-de-chicharron-de-cerdo-colombiano.jpg",
     "cuisine": "Colombiana",
@@ -417,55 +417,349 @@
             "description": "Retira la olla del fuego y sirve inmediatamente tu chicharrón de cerdo colombiano. ¿Viste qué fácil es? Corre a probarlo, ¡te encantará!"
         }
     ]
-},
-{
-    "name": "Receta de consomé de pescado colombiano",
-    "img": "https://unareceta.com/wp-content/uploads/2018/01/receta-de-consome-de-pescado-colombiano.jpg",
-    "cuisine": "Colombiana",
-    "location": {
-        "lat": 0.0,
-        "long": 0.0
     },
-    "description": "Hoy en Unareceta.com, te vamos a enseñar hacer un consomé de pescado colombiano. Este plato suele prepararse en las costas de Colombia, y aunque dependiendo de la región puede variar un poco, lo que todos tienen en común es su alto valor nutricional.",
-    "ingredients": [
-        {
-            "title": "",
-            "items": [
-                "600 gr. de rodajas de bagre",
-                "1 cebolla grande",
-                "3 cebollín",
-                "3 dientes de ajo",
-                "1 pimentón",
-                "4 papas grandes",
-                "3 hojas de culantro fresco picado",
-                "2 ramas de cilantro fresco picado",
-                "1 cucharada de orégano",
-                "1.5 litros de agua",
-                "Sal al gusto"
-            ]
-        }
-    ],
-    "steps": [
-        {
-            "step": "",
-            "description": "Para empezar, lo primero que debes hacer es colocar el pescado en una recipiente con agua y dejarlo en remojo durante 10 minutos."
+    {
+        "name": "Receta de consomé de pescado colombiano",
+        "img": "https://unareceta.com/wp-content/uploads/2018/01/receta-de-consome-de-pescado-colombiano.jpg",
+        "cuisine": "Colombiana",
+        "location": {
+            "lat": 0.0,
+            "long": 0.0
         },
-        {
-            "step": "",
-            "description": "Mientras, lava todos los aliños y pícalos lo más pequeño que puedas. Pela las papas y trocea en pedazos grandes.\n\n"
+        "description": "Hoy en Unareceta.com, te vamos a enseñar hacer un consomé de pescado colombiano. Este plato suele prepararse en las costas de Colombia, y aunque dependiendo de la región puede variar un poco, lo que todos tienen en común es su alto valor nutricional.",
+        "ingredients": [
+            {
+                "title": "",
+                "items": [
+                    "600 gr. de rodajas de bagre",
+                    "1 cebolla grande",
+                    "3 cebollín",
+                    "3 dientes de ajo",
+                    "1 pimentón",
+                    "4 papas grandes",
+                    "3 hojas de culantro fresco picado",
+                    "2 ramas de cilantro fresco picado",
+                    "1 cucharada de orégano",
+                    "1.5 litros de agua",
+                    "Sal al gusto"
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "step": "",
+                "description": "Para empezar, lo primero que debes hacer es colocar el pescado en una recipiente con agua y dejarlo en remojo durante 10 minutos."
+            },
+            {
+                "step": "",
+                "description": "Mientras, lava todos los aliños y pícalos lo más pequeño que puedas. Pela las papas y trocea en pedazos grandes.\n\n"
+            },
+            {
+                "step": "",
+                "description": "Vierte un litro de agua en una olla grande, agrega las cebollas, el cebollín, el pimentón, el culantro, los ajos, el pescado, el orégano, la sal al gusto y lleva al fuego."
+            },
+            {
+                "step": "",
+                "description": "Cuando el agua hierva, incorpora las papas, tapa y cocina a fuego bajo durante 35 minutos o hasta que el pescado esté bien cocido y las papas blandas."
+            },
+            {
+                "step": "",
+                "description": "Rectifica la sal antes de apartar del fuego y cuando vayas a servir tu consomé de pescado colombiano, espolvorea cada plato con un poco de cilantro picado.  ¡Muy buen provecho!"
+            }
+        ]
+    },
+    {
+        "name": "Receta de pavo al horno peruano",
+        "img": "https://unareceta.com/wp-content/uploads/2016/08/pavo-al-horno-peruano-640x427.jpg",
+        "cuisine": "Peruana",
+        "location": {
+            "lat": 0.0,
+            "long": 0.0
         },
-        {
-            "step": "",
-            "description": "Vierte un litro de agua en una olla grande, agrega las cebollas, el cebollín, el pimentón, el culantro, los ajos, el pescado, el orégano, la sal al gusto y lleva al fuego."
+        "description": "En Perú es tradición preparar un pavo para las fiestas navideñas. El pavo al horno peruano es un plato muy sabroso, en el que se utilizan varios ingredientes originarios de la zona para darle más sabor a la carne. ¿Quieres saber cómo se hace? Unareceta.com te enseña a preparar esta delicia peruana para que puedas disfrutarlo junto a tu familia y amigos.",
+        "ingredients": [
+            {
+                "title": "",
+                "items": [
+                    "1 pavo de 8 kg",
+                    "3 cucharadas de ajo molido",
+                    "5 cucharadas de sal",
+                    "2 cucharadas de orégano",
+                    "2 cucharadas de comino",
+                    "2 cucharadas de ají mirasol molido",
+                    "2 cucharadas de ají panca molido",
+                    "2 cucharadas de ají amarillo molido",
+                    "1 taza y media de cerveza rubia",
+                    "½ cucharada de vinagre tinto",
+                    "2 cucharadas de azúcar moreno",
+                    "1 poro cortado en dos",
+                    "1 cebolla",
+                    "½ taza sillau",
+                    "1 cucharadita de mostaza",
+                    "8 dientes de ajo",
+                    "1 zanahoria",
+                    "1 cucharada de chuño",
+                    "Aceite de oliva"
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "step": "",
+                "description": "Este plato debes empezar a prepararlo el día anterior para que el pavo tenga mejor sabor y la carne se macere adecuadamente. \nEn un cuenco vas a mezclar la media taza de cerveza rubia con una cucharada de sal. Remueve bien hasta que la sal haya quedado totalmente disuelta. "
+            },
+            {
+                "step": "",
+                "description": "Ahora, con sumo cuidado, coge una jeringuilla y vas inyectando la mezcla en diferentes partes del pavo, hasta que ya no te quede nada. "
+            },
+            {
+                "step": "",
+                "description": "A continuación, pon una sartén a fuego bajo con un poco de aceite. Cuando esté caliente, le echas las cucharadas de ají mirasol, ají panca y ají amarillo molido, cuatro cucharadas de sal y dos cucharadas de azúcar moreno, pimienta, comino y orégano. Remueve bien para que se vaya formando una mezcla homogénea."
+            },
+            {
+                "step": "",
+                "description": "Una vez que los ingredientes luzcan homogéneos, mezcla media taza de vinagre tinto con media taza de sillau y una cucharadita de mostaza. Remueve por un minuto y luego vierte la mezcla en la sartén, removiendo ahora con la ayuda de una varilla para que se consiga una mejor combinación de todos los ingredientes. Apaga el fuego y retira la sartén. "
+            },
+            {
+                "step": "",
+                "description": "Este será el aderezo para macerar tu carne, por eso vierte esta mezcla sobre el pavo, recúbrelo con papel film y mételo en la nevera durante 12 horas para que el ave adquiera un sabor intenso y delicioso. A las 6 horas, voltea el pavo para que se macere adecuadamente por ambos lados. "
+            },
+            {
+                "step": "",
+                "description": "Al día siguiente, una hora antes de cocinar, saca el pavo de la nevera para que adquiera la temperatura del ambiente. Cuando hayan transcurrido 40 minutos desde que sacaste el pavo, deberás encender el horno a 200 ºC para precalentarlo mientras preparas el resto de verduras que acompañarán este plato. \n"
+            },
+            {
+                "step": "",
+                "description": "Pela la cebolla y la pícala en trozos pequeños, los dientes de ajo también los pelas y los picas. La zanahoria, tras haberla pelado y lavado con agua fría, la cortas en trozos mientras que el poro lo cortas en dados."
+            },
+            {
+                "step": "",
+                "description": "Todas estas verduras las repartes por la bandeja y justo encima colocas el pavo cubierto con papel aluminio para evitar que se queme. Si tienes una bolsa de pollo asado, mete el pavo dentro de la bolsa en lugar de usar papel aluminio. "
+            },
+            {
+                "step": "",
+                "description": "Mete en el horno a 180º C para que se haga durante aproximadamente 5 horas y media. En el caso de haber comprado un pavo más grande, debes hornearlo 20 minutos por cada kilo de peso, sumando el peso de las verduras de la fuente. Durante los últimos 40 minutos de cocción, sube el fuego a 200 ºC  y retira el papel aluminio para que la piel se dore. "
+            },
+            {
+                "step": "",
+                "description": "Mientras el pavo esté en el horno, más o menos cada 20 minutos deberás usar una cuchara para bañarlo con el jugo que se forma en la bandeja, así no se secará y garantizarás un pavo al horno peruano jugoso y delicioso. "
+            },
+            {
+                "step": "",
+                "description": "Una vez que esté listo, si no lo vas a sacar ya para servirlo, déjalo dentro del horno apagado y así se mantendrá a buena temperatura para que cuando lo sirvas esté en su punto. En el caso de haberlo metido en una bolsa para pollos, sácalo de la bolsa y vuelve a ponerlo en la bandeja."
+            },
+            {
+                "step": "",
+                "description": "El pavo al horno peruano debe reposar durante al menos 20 minutos antes de cortarlo, de este modo no deshará y estará delicioso y en su punto. ¡Buen provecho! "
+            }
+        ]
+    },
+    {
+        "name": "Receta de lomo de cerdo al horno peruano",
+        "img": "https://unareceta.com/wp-content/uploads/2019/02/receta-lomo-cerdo-horno-peruano-640x427.jpg",
+        "cuisine": "Peruana",
+        "location": {
+            "lat": 0.0,
+            "long": 0.0
         },
-        {
-            "step": "",
-            "description": "Cuando el agua hierva, incorpora las papas, tapa y cocina a fuego bajo durante 35 minutos o hasta que el pescado esté bien cocido y las papas blandas."
+        "description": "Hoy en Unareceta.com te invitamos a disfrutar del sabor de un lomo de cerdo al horno peruano que tanto nos gusta. ¡Es perfecto para una cena de lujo!",
+        "ingredients": [
+            {
+                "title": "",
+                "items": [
+                    "1.4 kg. de lomo de cerdo",
+                    "2 ramas de romero",
+                    "4 dientes de ajo",
+                    "1 zanahoria",
+                    "1 rama de apio",
+                    "1 puerro",
+                    "4 tazas de agua",
+                    "1 taza de vino blanco",
+                    "4 rebanadas de pan de molde",
+                    "1/2 cucharadita de pimienta negra",
+                    "Sal"
+                ]
+            },
+            {
+                "title": "Para la salsa",
+                "items": [
+                    "15 ml. de salsa Hoisin",
+                    "15 ml. de salsa de ostras",
+                    "1 cucharada de azúcar moreno",
+                    "1 taza de caldo de cocción del lomo",
+                    "1/4 cucharadita de jengibre rallado",
+                    "1 cucharadita de aceite de sésamo",
+                    "Una pizca de canela china"
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "step": "",
+                "description": "Vas a comenzar preparando una salmuera, para ello vierte el agua y cinco cucharaditas de sal en un recipiente, cinco cucharaditas de sal, revuelve, sumerge el lomo, tapa y refrigera durante cuatro horas."
+            },
+            {
+                "step": "",
+                "description": "Transcurrido el tiempo, precalienta el horno a 230°C y luego lava el lomo, sécalo bien, realiza cortes superficiales en forma de diamante y salpimienta."
+            },
+            {
+                "step": "",
+                "description": "Coloca el lomo en una bandeja y hornéalo durante 20 minutos para que la carne se selle. Mientras, pela los ajos y tritúralos, lava la rama de apio y trocéala, lava, pela y rebana tanto la zanahoria como la parte blanca del puerro."
+            },
+            {
+                "step": "",
+                "description": "Pasados los 20 minutos, saca el lomo y agrega a su alrededor el romero, las verduras troceadas, el ajo, baña con el vino y hornea durante cinco minutos para que se evapore el alcohol."
+            },
+            {
+                "step": "",
+                "description": "A continuación, cúbrelo con papel aluminio y hornéalo durante 45 minutos a 160°C. Para dorarlo, destápalo y déjalo en el horno durante 15 minutos más. Cuando esté listo, llévalo a un plato y rebánalo al enfriarse.\n\n"
+            },
+            {
+                "step": "",
+                "description": "Para hacer la salsa, retira el exceso de grasa de los jugos de cocción con el pan de molde y cuela. Mezcla los ingredientes en una sartén y cocina a fuego bajo hasta lograr la consistencia deseada."
+            },
+            {
+                "step": "",
+                "description": "Sirve tu lomo de cerdo al horno peruano acompañado de su salsa. Queda riquísimo. ¡Compruébalo ya !"
+            }
+        ]
+    },
+    {
+        "name": "Receta de chicharrón de pollo peruano",
+        "img": "https://unareceta.com/wp-content/uploads/2017/09/receta-de-chicharron-de-pollo-peruano-640x426.jpg",
+        "cuisine": "Peruana",
+        "location": {
+            "lat": 0.0,
+            "long": 0.0
         },
-        {
-            "step": "",
-            "description": "Rectifica la sal antes de apartar del fuego y cuando vayas a servir tu consomé de pescado colombiano, espolvorea cada plato con un poco de cilantro picado.  ¡Muy buen provecho!"
-        }
-    ]
-}
+        "description": "Si eres un fanático del pollo frito hoy te vamos a enseñar a cocinar un chicharrón de pollo peruano típico de zona andina que es muy fácil de hacer y con un resultado de los mejores.",
+        "ingredients": [
+            {
+                "title": "",
+                "items": [
+                    "1 kg. de pechuga de pollo o muslo deshuesado",
+                    "4 cucharadas de vinagre blanco",
+                    "1 cucharada de mostaza",
+                    "2 dientes de ajo",
+                    "1 cucharada de jengibre rallado (opcional)",
+                    "Pimienta recién molida al gusto",
+                    "3 cucharaditas de sal",
+                    "1 taza de harina de maíz",
+                    "1 taza de pan molido",
+                    "3 huevos",
+                    "Aceite vegetal para freír"
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "step": "",
+                "description": "Para comenzar a preparar este chicharrón de pollo peruano lo primero que tienes que hacer es cortar el pollo en trozos de tamaño mediano, procura que te queden de unos 2 centímetros de ancho aproximadamente para que se cocinen rápido. Reserva."
+            },
+            {
+                "step": "",
+                "description": "Pela los dientes de ajo y machácalos en un mortero, también puedes pasarlos por un triturador de ajos. Si vas a incluir el jengibre en la preparación retira la piel, rállalo y toma la medida requerida."
+            },
+            {
+                "step": "",
+                "description": "Coloca el pollo en un bol y agrega la mostaza, el vinagre, los ajos, el jengibre, la pimienta y la sal. Mezcla bien, tapa y lleva al frigorífico para que se marine durante media hora."
+            },
+            {
+                "step": "",
+                "description": "A continuación coloca en un plato la harina de maíz, en otro el pan molido y en otro plato los huevos batidos con la ayuda de un tenedor.  Reserva."
+            },
+            {
+                "step": "",
+                "description": "Saca el pollo troceado y marinado del frigorífico, pásalo primero por la harina de maíz, luego por los huevos y finamente por el pan molido."
+            },
+            {
+                "step": "",
+                "description": "Calienta abundante aceite vegetal en una sartén para que el pollo quede cubierto y fríelo hasta que se dore por ambos lados. Escurre el exceso de aceite colocándolo sobre papel absorbente de cocina. "
+            },
+            {
+                "step": "",
+                "description": "Esperamos que disfrutes esta receta de chicharrón de pollo peruano tanto como nosotros, acompáñalo con unas papas fritas y la salsa de tu preferencia. ¡Qué aproveche!"
+            }
+        ]
+    },
+    {
+        "name": "Receta de pie de manzana peruano",
+        "img": "https://unareceta.com/wp-content/uploads/2017/10/receta-de-pie-de-manzana-peruano.jpg",
+        "cuisine": "Peruana",
+        "location": {
+            "lat": 0.0,
+            "long": 0.0
+        },
+        "description": "Uno de los postres más populares que puedes preparar es el pie de manzana, y por eso hay tantas formas de prepararlo alrededor del mundo. Hoy en Unareceta.com te enseñaremos a cocinar un pie de manzana peruano. ¿Te nos unes?",
+        "ingredients": [
+            {
+                "title": "Para la masa",
+                "items": [
+                    "3 1/2 tazas de harina",
+                    "1/2 taza de mantequilla fría",
+                    "1/2 taza de azúcar blanca",
+                    "2 huevos",
+                    "1/4 cucharadita de sal"
+                ]
+            },
+            {
+                "title": "Para el relleno",
+                "items": [
+                    "5 manzanas verdes",
+                    "3/4 taza de azúcar morena",
+                    "1/4 taza de pasas (opcional)",
+                    "1/2 limón",
+                    "1 cucharada de canela",
+                    "1 cucharadita de clavos de olor en polvo",
+                    "1 cucharada de maicena"
+                ]
+            },
+            {
+                "title": "Para pintar la cobertura",
+                "items": [
+                    "1 huevo",
+                    "2 cucharadas de leche"
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "step": "",
+                "description": "Vamos a empezar con la masa: Agrega la harina tamizada a un bol y mézclala con la sal. Corta la mantequilla fría en trozos e incorpórala uniendo con un tenedor, cuando tengas una mezcla arenosa agrega el azúcar y los huevos."
+            },
+            {
+                "step": "",
+                "description": "Amasa rápidamente con las manos, hasta que obtengas una masa homogénea. Divide en dos y guárdalas por separado en bolsitas plásticas. Refrigera durante media hora."
+            },
+            {
+                "step": "",
+                "description": "Para hacer el relleno, lava las manzanas, pélalas y retira el corazón. Rállalas por la parte gruesa del rallador o rebánalas, cúbrelas con el zumo de limón y remueve para que no se oxiden. "
+            },
+            {
+                "step": "",
+                "description": "En un recipiente aparte mezcla el azúcar, la maicena, la canela y los clavos de olor en polvo. Añade a las manzanas y mezcla, finalmente agrega las pasas si las vas a incluir. Reserva."
+            },
+            {
+                "step": "",
+                "description": "A continuación,  precalienta el horno a 180°C. Engrasa y enharina el molde que vayas a usar y saca una de las mitades de la masa de la nevera. "
+            },
+            {
+                "step": "",
+                "description": "Echa harina sobre una superficie plana y extiéndela con un rodillo. Forra el molde, incluyendo la paredes y cubre con el relleno de manzana."
+            },
+            {
+                "step": "",
+                "description": "Saca la otra parte de la masa y extiéndela también con el rodillo, realiza varias rajaduras en el centro para que salga el vapor y colócala sobre el relleno. Corta el exceso de masa y presiona los bordes con los dedos para sellar."
+            },
+            {
+                "step": "",
+                "description": "Mezcla el huevo con la leche y con una brochita cubre con una fina capa. Lleva al horno y cocina por 60 minutos. "
+            },
+            {
+                "step": "",
+                "description": "Cuando veas que unas burbujas de caramelo salen por las ranuras, ya podrás sacar del horno tu pie de manzana peruano. Enfría durante una hora antes de comerlo. ¡Buen provecho!"
+            }
+        ]
+    }
+    
 ]

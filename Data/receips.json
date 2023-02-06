@@ -1,28 +1,471 @@
 [
     {
-        "name": "",
-        "description": "",
+        "name": "Receta de polenta argentina",
+        "img": "https://unareceta.com/wp-content/uploads/2017/06/receta-de-polenta-argentina.jpg",
+        "description": "Aunque la polenta es un plato que tiene su origen en Italia, cada día cuenta con más popularidad en diversos países. La polenta argentina por ejemplo es una buena muestra de ello, ya que como ves, en este país tienen su propia manera de preparar este plato, ¡y está realmente exquisito! ¿Quieres saber cómo se hace la típica polenta de Argentina? Entonces no te pierdas la receta que te presentamos a continuación en Unareceta.com, ¡te va a encantar!",
+        "cuisine": "Argentina",        
+        "location": {
+                "lat": 0.0,
+                "long": 0.0
+            },
+        "ingredients": [
+            {
+                "title": "Para hacer la masa:",
+                "items": [
+                    "200 gr. de harina de maíz",
+                    "400 ml. de leche",
+                    "3 huevos",
+                    "3 cucharadas de margarina",
+                    "2 cucharadas de azúcar",
+                    "½ cucharada de sal"
+                ]
+            },
+            {
+                "title": "Para hacer el guiso:",
+                "items": [
+                    "2 chuletas de Sajonia",
+                    "½ kg. de carne picada",
+                    "1 cebolla",
+                    "2 tomates",
+                    "5 dientes de ajo",
+                    "½ pimiento rojo",
+                    "½ puerro",
+                    "100 ml. de aceite de oliva",
+                    "½ cucharada de mostaza",
+                    "½ cucharada de azúcar"
+                ]
+            }
+        ],
         "steps": [
             {
                 "step": "",
-                "description":""
+                "description": "Para preparar la masa, todo lo que tienes que hacer es echar los ingredientes de la mezcla, es decir, la harina de maíz, la leche, la mantequilla, la sal, el azúcar y los huevos en el vaso de la batidora y mezclarlo todo. "
             },
             {
                 "step": "",
-                "description":""
+                "description": "Una vez que tengas lista la masa, resérvala mientras haces el guiso. Para ello, lava y pela los tomates, el pimiento, el puerro y la cebolla y ponlo en la licuadora. Tritúralo todo muy bien y pon a precalentar el horno a 200ºC."
             },
             {
                 "step": "",
-                "description":""
+                "description": "Añade ahora a la licuadora la sal y la mostaza y vierte el aceite de oliva en una olla. Ponlo a calentar y, cuando haya adquirido la temperatura adecuada, fríe las chuletas de Sajonia y córtalas en cuadrados muy pequeñitos. Dale un par de vueltas y añade también el contenido de la licuadora. "
+            },
+            {
+                "step": "",
+                "description": "Prepara una fuente apta para horno con un poco de mantequilla y harina y echa la mitad del contenido de la batidora, una capa del guiso y la otra del contenido de la batidora. Si quieres, también puedes utilizar la mezcla para la base y el guiso para la superficie. "
+            },
+            {
+                "step": "",
+                "description": "Cubre el molde con papel de aluminio y ponlo en el horno.  Deja que se haga unos 35 o 40 minutos. Y, pasado este tiempo, ya puedes apagar el horno, apartar y servir tu exquisita polenta argentina. ¡Esperamos que te haya gustado esta receta! ¡Muy buen provecho!"
             }
-        ],
-        "source": {
-            "type": "",
-            "url": ""
-        },
+        ]
+    },
+    {
+        "name": "Receta de calzone de jamón y queso",
+        "img": "https://unareceta.com/wp-content/uploads/2019/01/receta-calzone-jamon-queso-640x427.jpg",
+        "description": "¿Sabías que el calzone es oriundo de una región italiana llamada Nápoles? Esta recreación de la pizza tradicional es muy popular no sólo en Italia, sino en países como Argentina o Estados Unidos. Se puede rellenar con muchísimos ingredientes. ¡Así se hace un calzone de jamón y queso!",
+        "cuisine": "Argentina",     
         "location": {
             "lat": 0.0,
             "long": 0.0
+        },
+        "ingredients": [
+            {
+                "title": "Para la masa:",
+                "items": [
+                    "3 tazas de harina ",
+                    "3/4 taza de agua caliente",
+                    "12 gr. de levadura instantánea",
+                    "1 cucharada de aceite de oliva",
+                    "1 cucharadita de sal"
+                ]
+            },
+            {
+                "title": "Para el relleno:",
+                "items": [
+                    "200 gr. de jamón cocido",
+                    "200 gr. de queso mozzarella",
+                    "1 taza de salsa de tomate",
+                    "4 hojas de albahaca fresca",
+                    "2 cucharadas de aceite de oliva",
+                    "Orégano",
+                    "Pimienta negra",
+                    "Sal"
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "step": "",
+                "description": "Como la masa debe reposarse antes, vas a comenzar por ella y lo primero es tamizarla con un colador. Disuelve la levadura en el agua caliente, luego añade la sal, vierte sobre la harina y comienza a amasar."
+            },
+            {
+                "step": "",
+                "description": "Añade el aceite y sigue mezclando hasta que la masa se despegue con facilidad de tus dedos, esté sin grumos y uniforme. Luego tápala y déjala en reposo hasta que doble su tamaño."
+            },
+            {
+                "step": "",
+                "description": "Una vez que la masa esté lista, enciende el horno y precaliéntalo a 180°C. Luego, espolvorea la mesa con harina y extiende la masa con un rodillo como si fueras a hacer una pizza. Reserva."
+            },
+            {
+                "step": "",
+                "description": "A continuación, trocea tanto el jamón como el queso y pica también las hojas de albahaca en pedacitos después de lavarlas."
+            },
+            {
+                "step": "",
+                "description": "Extiende la salsa por tu masa, procura no llegar hasta las bordes para que no se bote cuando la cierres y coloca encima el jamón troceado pero sólo en una mitad. Cubre con el queso, espolvorea con orégano y  la albahaca."
+            },
+            {
+                "step": "",
+                "description": "Humedece los bordes de tu calzone con un poco de agua y ciérralo como si de una empanada se tratara. Para sellarlo, presiona con los dedos."
+            },
+            {
+                "step": "",
+                "description": "Engrasa una bandeja de hornear con un chorrito de aceite, coloca encima tu calzone, realiza varios cortes pequeños para que salga el vapor durante la cocción y cocina durante 35 minutos."
+            },
+            {
+                "step": "",
+                "description": "Una vez que tu calzone de jamón y queso esté dorado, sácalo del horno y ¡a disfrutarlo!"
+            }
+        ]
+    },
+    {
+        "name": "Receta de polenta con salsa de pollo",
+        "img": "https://unareceta.com/wp-content/uploads/2017/06/receta-de-polenta-con-salsa-de-pollo.jpg",
+        "cuisine": "Argentina",     
+        "location": {
+            "lat": 0.0,
+            "long": 0.0
+        },
+        "description": "La polenta admite gran cantidad de variantes pero hoy queremos presentarte una forma de hacer este plato de origen italiano especialmente sabrosa, la polenta con salsa de pollo. Merece la pena ponerse con esta receta porque su sabor es un auténtico placer. Además, si sigues los pasos que te explicamos a continuación en Unareceta.com no te costará nada. ¿Quieres comprobarlo?",
+        "ingredients": [
+            {
+                "title": "Para la polenta",
+                "items": [
+                    "200 gr. de harina de maíz",
+                    "400 ml. de leche",
+                    "3 huevos",
+                    "3 cucharadas de margarina",
+                    "2 cucharadas de azúcar",
+                    "½ cucharada de sal"
+                ]
+            },
+            {
+                "title": "Para la salsa:",
+                "items": [
+                    "500 gr. de muslos de pollo",
+                    "300 gr. de salchichas",
+                    "1 cebolla",
+                    "2 zanahorias",
+                    "1 lata de tomate",
+                    "1 copa de vino blanco",
+                    "50 gr. de hongos secos",
+                    "100 ml. de caldo de pollo",
+                    "1 rama de romero",
+                    "1 rama de perejil fresco",
+                    "1 hoja de laurel",
+                    "Orégano",
+                    "Tomillo",
+                    "Aceite de oliva",
+                    "Pimienta negra molida",
+                    "Sal"
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "step": "",
+                "description": "Pon a calentar bastante aceite de oliva en una cazuela de barro y, mientras se calienta, quítale la piel a los muslitos de pollo."
+            },
+            {
+                "step": "",
+                "description": "Una vez que esté bien caliente el aceite, añade el pollo a la cazuela y sofríelo por todas partes hasta que esté bien doradito. Con unos diez minutos a fuego medio será suficiente. "
+            },
+            {
+                "step": "",
+                "description": "A continuación corta las salchichas y añádelas a la cazuela para que se hagan junto con los muslos de pollo. Baja el fuego para evitar que se quemen. "
+            },
+            {
+                "step": "",
+                "description": "Pela ahora la cebolla, pártela en cuatro partes y échala también en la cazuela. Haz lo mismo con las zanahorias. "
+            },
+            {
+                "step": "",
+                "description": "En cuanto las verduras se hayan pochadoun poquito, vierte el vino blanco por encima y sube el fuego al máximo durante cinco minutos para que se evapore el alcohol. "
+            },
+            {
+                "step": "",
+                "description": "Remoja los hongos en agua caliente y córtalos en láminas. Echalos en la cazuela con el resto de ingredientes y pon también la salsa de tomate junto con una mitad del caldo de pollo. Reserva la otra mitad. "
+            },
+            {
+                "step": "",
+                "description": "Echa ahora todas las especias en la cazuela y pon también un poco de sal."
+            },
+            {
+                "step": "",
+                "description": "Deja que se vaya haciendo todo a fuego lento hasta que la carne esté hecha y la salsa haya reducido bastante. Esto tardará unos quince minutos. A medida que lo vaya requiriendo, añade caldo para que no se quede muy seco el contenido de la cazuela."
+            },
+            {
+                "step": "",
+                "description": "Haz ahora la polenta. Para ello, todo lo que tienes que hacer es echar los ingredientes de la mezcla, es decir, la harina de maíz, la leche, la mantequilla, la sal, el azúcar y los huevos en el vaso de la batidora y mezclarlo todo. "
+            },
+            {
+                "step": "",
+                "description": "Si la salsa ya está lista, es hora de servir tu plato. Para ello, pon un poco de polenta y vierte por encima la salsa de pollo. ¡Esperamos que te guste! ¡Muy buen provecho!"
+            }
+        ]
+    },
+    {
+        "name": "Receta de turrón de avena",
+        "img": "https://unareceta.com/wp-content/uploads/2016/11/turron-de-avena-640x427.jpg",
+        "cuisine": "Argentina",     
+        "location": {
+            "lat": 0.0,
+            "long": 0.0
+        },
+        "description": "¿Quieres aprender a preparar un delicioso turrón de avena? Este dulce es muy típico en Argentina y también se conoce como turrón de Quaker debido a una famosa marca de avena (avena Quaker).",
+        "ingredients": [
+            {
+                "title": "",
+                "items": [
+                    "1 paquete de galletas tostadas cuadradas",
+                    "150 gr. de avena en copos",
+                    "200 gr. de mantequilla",
+                    "250 gr. de avena",
+                    "100 gr. de chocolate para repostería (en barra)",
+                    "200 gr. de azúcar",
+                    "3 cucharadas de dulce de leche",
+                    "1 vaso de leche"
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "step": "",
+                "description": "En un cazo derrite la mantequilla a fuego lento y añade después la leche y el chocolate. Sin dejar de remover, deja que se vaya derritiendo también el chocolate."
+            },
+            {
+                "step": "",
+                "description": "Después, añade los copos de avena, la leche, el azúcar y las tres cucharadas de dulce de leche. Sin dejar de remover, mantenlo a fuego lento durante 5 minutos. Retíralo y reserva la mezcla."
+            },
+            {
+                "step": "",
+                "description": "En un molde coloca una capa de galletas y sobre ésta una capa de la mezcla y así sucesivamente hasta completarlo. La última capa siempre será la de la mezcla."
+            },
+            {
+                "step": "",
+                "description": "Pon el turrón de avena en el nevera como mínimo una hora. Después sácalo y decóralo como más te guste. Una sugerencia es que lo cortes en porciones individuales como te mostramos en la imagen."
+            }
+        ]
+    },
+    {
+    "name": "Receta de arroz con pollo colombiano",
+    "img": "https://unareceta.com/wp-content/uploads/2015/06/arroz-con-pollo-colombiano.jpg",
+    "cuisine": "Colombiana",
+    "location": {
+        "lat": 0.0,
+        "long": 0.0
+    },
+    "description": "El arroz atollado es uno de los platos más populares de la cocina colombiana pero no es la única manera de cocinar este cereal y en Unareceta.com te vamos a enseñar otra opción igual de rica, el arroz con pollo colombiano. En cuanto lo pruebes, ¡verás lo bueno que está!",
+    "ingredients": [
+        {
+            "title": "",
+            "items": [
+                "300 gr. de pechuga de pollo",
+                "500 gr. de arroz",
+                "250 gr. de guisantes",
+                "1 cebolla",
+                "200 gr. de zanahoria",
+                "2 dientes de ajo",
+                "Salsa de tomate",
+                "Pimentón dulce",
+                "Sal",
+                "Cilantro picado",
+                "Aceite de oliva",
+                "Agua"
+            ]
         }
-    }
+    ],
+    "steps": [
+        {
+            "step": "",
+            "description": "Lava bien el pollo y quítale la grasa que pudiese contener. Después, córtalo a tacos y reserva. "
+        },
+        {
+            "step": "",
+            "description": "Pela y pica la cebolla y los dientes de ajo y, en cuanto los tengas listos, ponlos en una olla con un poco de aceite. "
+        },
+        {
+            "step": "",
+            "description": "Cuando ambos ingredientes estén bien dorados, lo cual solo les llevará cinco minutos, agrega los trozos de pollo para que se hagan bien. Añade también el cilantro picado y deja que se haga todo junto durante diez minutos. "
+        },
+        {
+            "step": "",
+            "description": "Agrega la salsa de tomate y un poco de pimentón dulce y sal y remueve bien. Tapa para que el pollo quede bien integrado en la mezcla y espera cinco minutos. Después apaga el fuego. "
+        },
+        {
+            "step": "",
+            "description": "Pon en otra cazuela el doble de agua que de arroz y déjalo al fuego durante unos quince minutos. En cuanto esté listo, apaga el fuego y reserva. "
+        },
+        {
+            "step": "",
+            "description": "Por otro lado, pela la zanahoria, lávala y córtala a tiras finas. Ponla en una tercera olla junto con los guisantes durante unos cinco minutos hasta que ambos ingredientes estén dorados.  "
+        },
+        {
+            "step": "",
+            "description": "Si el arroz y la zanahoria y los guisantes ya están listos, solo te queda el último paso: mezclarlo todo en la olla donde está el pollo. Ponlo todo junto y remuve. ¡Voilá! ¡Tu arroz con pollo colombiano estará listo! ¡Que aproveche! "
+        }
+    ]
+}, 
+{
+    "name": "Receta de arepas de yuca",
+    "img": "https://unareceta.com/wp-content/uploads/2017/05/arepas-de-yuca.jpg",
+    "cuisine": "Colombiana",
+    "location": {
+        "lat": 0.0,
+        "long": 0.0
+    },
+    "description": "Sabemos que las arepas venezolanas y colombianas tradicionales se elaboran con harina de maíz precocida pero ¿por qué no darles una vuelta diferente y hacer unas ricas arepas de yuca? Y es que con este ingrediente puedes hacer mucho más que la clásica yuca frita.",
+    "ingredients": [
+        {
+            "title": "",
+            "items": [
+                "1 kilo de yuca",
+                "Mantequilla",
+                "Agua",
+                "Sal"
+            ]
+        }
+    ],
+    "steps": [
+        {
+            "step": "",
+            "description": "Hacer las arepas de yuca es tan fácil como elaborar las tradicionales de maíz, por lo que si eres un ávido \"arepero\" no tendrás ningún problema en conseguirlo. "
+        },
+        {
+            "step": "",
+            "description": "Lo primero que deberás hacer es llenar una olla con agua y un poco de sal y ponerla a hervir, pues necesitarás cocer primero la yuca antes de convertirla en la masa de estas arepas creativas. \n"
+        },
+        {
+            "step": "",
+            "description": "Mientras el agua alcanza el punto de ebullición, lava y pela la yuca, luego córtala en porciones para hervirla. Mientras más pequeños sean los trozos más rápido se hará. "
+        },
+        {
+            "step": "",
+            "description": "Colócala con cuidado en el agua cuando comience a hervir y déjala cocinar hasta que esté blandita. El tiempo puede variar dependiendo del tamaño y grosor de los trozos. Una vez lista, escúrrela y déjala enfriar un poco. "
+        },
+        {
+            "step": "",
+            "description": "Cuando esté más fría, retira la hebra del medio y comienza a rallar la yuca usando el lado del rallador que te dé los trozos más finos.  Reserva en un recipiente. "
+        },
+        {
+            "step": "",
+            "description": "Una vez rallada, añade al recipiente aproximadamente 3/4 de taza de agua tibia, dos cucharadas de mantequilla (o la cantidad que prefieras) y una pizca de sal. "
+        },
+        {
+            "step": "",
+            "description": "Amasa como lo haces con las arepas tradicionales hasta formar una masa compacta y manejable pero un poco más seca que la de maíz. Haz tus bolitas de masa de yuca y dales la forma de arepa, que irás colocando en un plato a medida que las haces. "
+        },
+        {
+            "step": "",
+            "description": "Añade un poco de aceite a un budare o sartén y, una vez caliente, ve colocando las arepas para dorarlas durante 5 minutos por cada lado. Como la yuca ya está cocinada solo necesitarás darle color y ese toque crujiente que tanto nos gusta. "
+        },
+        {
+            "step": "",
+            "description": "Si lo deseas puedes rematarlas 5 minutos en el horno bien caliente a 220 ºC para que se pongan aún más crujientes. Sirve estas sabrosas arepas de yuca con queso, mantequilla, huevo ¡o con lo que quieras! Verás como triunfan en casa. "
+        }
+    ]
+},
+{
+    "name": "Receta de chicharrón de cerdo colombiano",
+    "img": "https://unareceta.com/wp-content/uploads/2017/09/receta-de-chicharron-de-cerdo-colombiano.jpg",
+    "cuisine": "Colombiana",
+    "location": {
+        "lat": 0.0,
+        "long": 0.0
+    },
+    "description": "El chicharrón de cerdo colombiano es uno de los platos más famosos de Latinoamérica, pues es uno de los componentes más preciados de la famosa Bandeja Paisa colombiana. Esta receta resulta de lo más fácil y es ideal para prepararla en esos días en que queremos darnos un placer calórico. ¡Te va a encantar!",
+    "ingredients": [
+        {
+            "title": "",
+            "items": [
+                "2 kg. de tocino de cerdo",
+                "1 cucharadita de bicarbonato de sodio",
+                "1 cucharadita de sal",
+                "2 tazas de agua"
+            ]
+        }
+    ],
+    "steps": [
+        {
+            "step": "",
+            "description": "Comienza a hacer este chicharrón de cerdo colombiano lavando el tocino. Luego, colócalo en una bandeja con la piel hacia abajo y realiza cortes transversales para obtener trozos de 2 centímetros de grueso cada uno. "
+        },
+        {
+            "step": "",
+            "description": "Una vez que tengas el tocino limpio y cortado, frota cada pieza con bicarbonato de sodio vigilando cubrir cada lado con bicarbonato. "
+        },
+        {
+            "step": "",
+            "description": "Luego, incorpora el tocino a una olla mediana y agrega el agua y la sal. Deja cocer la carne a fuego medio hasta que se seque toda el agua. "
+        },
+        {
+            "step": "",
+            "description": "Cuando el agua se haya evaporado, deja que el tocino se fría en su misma grasa durante veinte minutos o hasta que notes que los trozos están dorados por todos sus lados. "
+        },
+        {
+            "step": "",
+            "description": "Retira la olla del fuego y sirve inmediatamente tu chicharrón de cerdo colombiano. ¿Viste qué fácil es? Corre a probarlo, ¡te encantará!"
+        }
+    ]
+},
+{
+    "name": "Receta de consomé de pescado colombiano",
+    "img": "https://unareceta.com/wp-content/uploads/2018/01/receta-de-consome-de-pescado-colombiano.jpg",
+    "cuisine": "Colombiana",
+    "location": {
+        "lat": 0.0,
+        "long": 0.0
+    },
+    "description": "Hoy en Unareceta.com, te vamos a enseñar hacer un consomé de pescado colombiano. Este plato suele prepararse en las costas de Colombia, y aunque dependiendo de la región puede variar un poco, lo que todos tienen en común es su alto valor nutricional.",
+    "ingredients": [
+        {
+            "title": "",
+            "items": [
+                "600 gr. de rodajas de bagre",
+                "1 cebolla grande",
+                "3 cebollín",
+                "3 dientes de ajo",
+                "1 pimentón",
+                "4 papas grandes",
+                "3 hojas de culantro fresco picado",
+                "2 ramas de cilantro fresco picado",
+                "1 cucharada de orégano",
+                "1.5 litros de agua",
+                "Sal al gusto"
+            ]
+        }
+    ],
+    "steps": [
+        {
+            "step": "",
+            "description": "Para empezar, lo primero que debes hacer es colocar el pescado en una recipiente con agua y dejarlo en remojo durante 10 minutos."
+        },
+        {
+            "step": "",
+            "description": "Mientras, lava todos los aliños y pícalos lo más pequeño que puedas. Pela las papas y trocea en pedazos grandes.\n\n"
+        },
+        {
+            "step": "",
+            "description": "Vierte un litro de agua en una olla grande, agrega las cebollas, el cebollín, el pimentón, el culantro, los ajos, el pescado, el orégano, la sal al gusto y lleva al fuego."
+        },
+        {
+            "step": "",
+            "description": "Cuando el agua hierva, incorpora las papas, tapa y cocina a fuego bajo durante 35 minutos o hasta que el pescado esté bien cocido y las papas blandas."
+        },
+        {
+            "step": "",
+            "description": "Rectifica la sal antes de apartar del fuego y cuando vayas a servir tu consomé de pescado colombiano, espolvorea cada plato con un poco de cilantro picado.  ¡Muy buen provecho!"
+        }
+    ]
+}
 ]
